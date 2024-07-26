@@ -1,0 +1,269 @@
+{
+  "klass": "Specie",
+  "id": 438,
+  "dbSymbol": "bonsly",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.5,
+      "weight": 15,
+      "type1": "rock",
+      "type2": "__undef__",
+      "baseHp": 50,
+      "baseAtk": 80,
+      "baseDfe": 95,
+      "baseSpd": 10,
+      "baseAts": 10,
+      "baseDfs": 45,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 1,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "sudowoodo",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "skill1",
+              "value": "mimic"
+            }
+          ]
+        }
+      ],
+      "experienceType": 1,
+      "baseExperience": 58,
+      "baseLoyalty": 70,
+      "catchRate": 255,
+      "femaleRate": 50,
+      "breedGroups": [
+        15,
+        15
+      ],
+      "hatchSteps": 5120,
+      "babyDbSymbol": "__undef__",
+      "babyForm": 0,
+      "itemHeld": [],
+      "abilities": [
+        "sturdy",
+        "rock_head",
+        "rattled"
+      ],
+      "frontOffsetY": 23,
+      "resources": {
+        "icon": "438",
+        "iconShiny": "",
+        "front": "438",
+        "frontShiny": "438",
+        "back": "438",
+        "backShiny": "438",
+        "footprint": "438",
+        "character": "438_0",
+        "characterShiny": "438s_0",
+        "cry": "438cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fake_tears",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "copycat",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "flail",
+          "level": 4
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rock_throw",
+          "level": 8
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "block",
+          "level": 12
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mimic",
+          "level": 16
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rock_tomb",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tearful_look",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sucker_punch",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "rock_slide",
+          "level": 32
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "low_kick",
+          "level": 36
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "counter",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "double_edge",
+          "level": 44
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "harden"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "defense_curl"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "headbutt"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "curse"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "rollout"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "rock_polish"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dig"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "self_destruct"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rest"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rock_slide"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "thief"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "snore"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "protect"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "attract"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sandstorm"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sunny_day"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "facade"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "helping_hand"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "brick_break"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "fake_tears"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rock_tomb"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sand_tomb"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "round"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "stomping_tantrum"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "low_kick"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "substitute"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "endure"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sleep_talk"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "uproar"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "calm_mind"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "earth_power"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "stealth_rock"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "foul_play"
+        }
+      ]
+    }
+  ]
+}

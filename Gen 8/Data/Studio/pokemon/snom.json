@@ -1,0 +1,159 @@
+{
+  "klass": "Specie",
+  "id": 872,
+  "dbSymbol": "snom",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.3,
+      "weight": 3.8,
+      "type1": "ice",
+      "type2": "bug",
+      "baseHp": 30,
+      "baseAtk": 25,
+      "baseDfe": 35,
+      "baseSpd": 20,
+      "baseAts": 45,
+      "baseDfs": 30,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 1,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "frosmoth",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLoyalty",
+              "value": 220
+            },
+            {
+              "type": "dayNight",
+              "value": 0
+            }
+          ]
+        }
+      ],
+      "experienceType": 1,
+      "baseExperience": 37,
+      "baseLoyalty": 50,
+      "catchRate": 190,
+      "femaleRate": 50,
+      "breedGroups": [
+        3,
+        3
+      ],
+      "hatchSteps": 5120,
+      "babyDbSymbol": "snom",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "shield_dust",
+        "shield_dust",
+        "ice_scales"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "872",
+        "iconShiny": "",
+        "front": "872",
+        "frontShiny": "872",
+        "back": "872",
+        "backShiny": "872",
+        "footprint": "",
+        "character": "872_0",
+        "characterShiny": "872s_0",
+        "cry": "872cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "powder_snow",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "struggle_bug",
+          "level": 1
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "skitter_smack"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "fairy_wind"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "mirror_coat"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "bug_bite"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rest"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "snore"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "protect"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "icy_wind"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "attract"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "facade"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "icicle_spear"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "round"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "substitute"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "endure"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sleep_talk"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "bug_buzz"
+        }
+      ]
+    }
+  ]
+}

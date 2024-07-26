@@ -1,0 +1,221 @@
+{
+  "klass": "Specie",
+  "id": 831,
+  "dbSymbol": "wooloo",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.6,
+      "weight": 6,
+      "type1": "normal",
+      "type2": "__undef__",
+      "baseHp": 42,
+      "baseAtk": 40,
+      "baseDfe": 55,
+      "baseSpd": 48,
+      "baseAts": 40,
+      "baseDfs": 45,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 1,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "dubwool",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 24
+            }
+          ]
+        }
+      ],
+      "experienceType": 1,
+      "baseExperience": 122,
+      "baseLoyalty": 50,
+      "catchRate": 255,
+      "femaleRate": 50,
+      "breedGroups": [
+        5,
+        5
+      ],
+      "hatchSteps": 3840,
+      "babyDbSymbol": "wooloo",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "fluffy",
+        "run_away",
+        "bulletproof"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "831",
+        "iconShiny": "",
+        "front": "831",
+        "frontShiny": "831",
+        "back": "831",
+        "backShiny": "831",
+        "footprint": "",
+        "character": "831_0",
+        "characterShiny": "831s_0",
+        "cry": "831cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tackle",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "growl",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "defense_curl",
+          "level": 4
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "copycat",
+          "level": 8
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "guard_split",
+          "level": 12
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "double_kick",
+          "level": 16
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "headbutt",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "take_down",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "guard_swap",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "reversal",
+          "level": 32
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "cotton_guard",
+          "level": 36
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "double_edge",
+          "level": 40
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "grassy_glide"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "counter"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "swagger"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "stomp"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "thunder_wave"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rest"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "snore"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "protect"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "attract"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "facade"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "payback"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "guard_swap"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "round"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "agility"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "substitute"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "reversal"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "endure"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sleep_talk"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "electro_ball"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "wild_charge"
+        }
+      ]
+    }
+  ]
+}

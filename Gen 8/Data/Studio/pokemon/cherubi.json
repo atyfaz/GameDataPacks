@@ -1,0 +1,271 @@
+{
+  "klass": "Specie",
+  "id": 420,
+  "dbSymbol": "cherubi",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.4,
+      "weight": 3.3,
+      "type1": "grass",
+      "type2": "__undef__",
+      "baseHp": 45,
+      "baseAtk": 35,
+      "baseDfe": 45,
+      "baseSpd": 35,
+      "baseAts": 62,
+      "baseDfs": 53,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 1,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "cherrim",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 25
+            }
+          ]
+        }
+      ],
+      "experienceType": 1,
+      "baseExperience": 55,
+      "baseLoyalty": 70,
+      "catchRate": 190,
+      "femaleRate": 50,
+      "breedGroups": [
+        6,
+        7
+      ],
+      "hatchSteps": 5120,
+      "babyDbSymbol": "cherubi",
+      "babyForm": 0,
+      "itemHeld": [],
+      "abilities": [
+        "chlorophyll",
+        "chlorophyll",
+        "chlorophyll"
+      ],
+      "frontOffsetY": 32,
+      "resources": {
+        "icon": "420",
+        "iconShiny": "",
+        "front": "420",
+        "frontShiny": "420",
+        "back": "420",
+        "backShiny": "420",
+        "footprint": "420",
+        "character": "420_0",
+        "characterShiny": "420s_0",
+        "cry": "420cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "morning_sun",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tackle",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leafage",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "growth",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "helping_hand",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "magical_leaf",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leech_seed",
+          "level": 26
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "take_down",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "petal_blizzard",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "worry_seed",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "solar_beam",
+          "level": 45
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "grassy_glide"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "aromatherapy"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "defense_curl"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "tickle"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "sweet_scent"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "flower_shield"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "rollout"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "razor_leaf"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "heal_pulse"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "healing_wish"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "nature_power"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "magical_leaf"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "solar_beam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "safeguard"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rest"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "snore"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "protect"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "giga_drain"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "attract"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sunny_day"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "facade"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "helping_hand"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "weather_ball"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "bullet_seed"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "round"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "draining_kiss"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "grassy_terrain"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "swords_dance"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "substitute"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "endure"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sleep_talk"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "seed_bomb"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "energy_ball"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "grass_knot"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dazzling_gleam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "pollen_puff"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "klass": "Specie",
+  "id": 737,
+  "dbSymbol": "charjabug",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.5,
+      "weight": 10.5,
+      "type1": "bug",
+      "type2": "electric",
+      "baseHp": 52,
+      "baseAtk": 82,
+      "baseDfe": 95,
+      "baseSpd": 36,
+      "baseAts": 55,
+      "baseDfs": 75,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 2,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "vikavolt",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "maps",
+              "value": [
+                -1
+              ]
+            }
+          ]
+        }
+      ],
+      "experienceType": 1,
+      "baseExperience": 140,
+      "baseLoyalty": 70,
+      "catchRate": 120,
+      "femaleRate": 50,
+      "breedGroups": [
+        3,
+        3
+      ],
+      "hatchSteps": 3840,
+      "babyDbSymbol": "grubbin",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "battery",
+        "battery",
+        "battery"
+      ],
+      "frontOffsetY": 32,
+      "resources": {
+        "icon": "737",
+        "iconShiny": "",
+        "front": "737",
+        "frontShiny": "737",
+        "back": "737",
+        "backShiny": "737",
+        "footprint": "",
+        "character": "737_0",
+        "characterShiny": "737s_0",
+        "cry": "",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "vise_grip",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mud_slap",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "charge",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "string_shot",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bug_bite",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bite",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "spark",
+          "level": 23
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sticky_web",
+          "level": 29
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "x_scissor",
+          "level": 36
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "crunch",
+          "level": 43
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "dig",
+          "level": 50
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "iron_defense",
+          "level": 57
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "discharge",
+          "level": 64
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "charge"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "harden"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "discharge"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "rising_voltage"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "skitter_smack"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "thunder_wave"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dig"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "screech"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "light_screen"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rest"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "snore"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "protect"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "attract"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rain_dance"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "facade"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "mud_shot"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "round"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "acrobatics"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "volt_switch"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "electroweb"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "thunderbolt"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "substitute"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "endure"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sleep_talk"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "crunch"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "poison_jab"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "x_scissor"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "wild_charge"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "eerie_impulse"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "electro_ball"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "iron_defense"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "klass": "Specie",
+  "id": 854,
+  "dbSymbol": "sinistea",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.1,
+      "weight": 0.2,
+      "type1": "ghost",
+      "type2": "__undef__",
+      "baseHp": 40,
+      "baseAtk": 45,
+      "baseDfe": 45,
+      "baseSpd": 50,
+      "baseAts": 74,
+      "baseDfs": 54,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 1,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "polteageist",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "stone",
+              "value": "cracked_pot"
+            }
+          ]
+        }
+      ],
+      "experienceType": 1,
+      "baseExperience": 62,
+      "baseLoyalty": 50,
+      "catchRate": 120,
+      "femaleRate": -1,
+      "breedGroups": [
+        10,
+        11
+      ],
+      "hatchSteps": 5120,
+      "babyDbSymbol": "sinistea",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "weak_armor",
+        "weak_armor",
+        "cursed_body"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "854",
+        "iconShiny": "",
+        "front": "854",
+        "frontShiny": "854",
+        "back": "854",
+        "backShiny": "854",
+        "footprint": "",
+        "character": "854_0",
+        "characterShiny": "854s_0",
+        "cry": "854cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "astonish",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "withdraw",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aromatic_mist",
+          "level": 6
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mega_drain",
+          "level": 12
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "protect",
+          "level": 18
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sucker_punch",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aromatherapy",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "giga_drain",
+          "level": 36
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "nasty_plot",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shadow_ball",
+          "level": 48
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "memento",
+          "level": 54
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shell_smash",
+          "level": 60
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "poltergeist"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rest"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "snore"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "protect"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "giga_drain"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "will_o_wisp"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "facade"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "imprison"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "payback"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "wonder_room"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "round"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "hex"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "phantom_force"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "psychic"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "metronome"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "substitute"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "psyshock"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "endure"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sleep_talk"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "baton_pass"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "shadow_ball"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "trick"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dark_pulse"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "nasty_plot"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "foul_play"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "stored_power"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "ally_switch"
+        }
+      ]
+    },
+    {
+      "form": 1,
+      "height": 0.1,
+      "weight": 0.2,
+      "type1": "ghost",
+      "type2": "__undef__",
+      "baseHp": 40,
+      "baseAtk": 45,
+      "baseDfe": 45,
+      "baseSpd": 50,
+      "baseAts": 74,
+      "baseDfs": 54,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 1,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "polteageist",
+          "form": 1,
+          "conditions": [
+            {
+              "type": "stone",
+              "value": "chipped_pot"
+            }
+          ]
+        }
+      ],
+      "experienceType": 1,
+      "baseExperience": 62,
+      "baseLoyalty": 50,
+      "catchRate": 120,
+      "femaleRate": -1,
+      "breedGroups": [
+        10,
+        11
+      ],
+      "hatchSteps": 5120,
+      "babyDbSymbol": "sinistea",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "weak_armor",
+        "weak_armor",
+        "cursed_body"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "854",
+        "iconShiny": "",
+        "front": "854",
+        "frontShiny": "854",
+        "back": "854_01",
+        "backShiny": "854_01",
+        "footprint": "",
+        "character": "854_0",
+        "characterShiny": "854s_0",
+        "cry": "854cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "astonish",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "withdraw",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aromatic_mist",
+          "level": 6
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mega_drain",
+          "level": 12
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "protect",
+          "level": 18
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sucker_punch",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aromatherapy",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "giga_drain",
+          "level": 36
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "nasty_plot",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shadow_ball",
+          "level": 48
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "memento",
+          "level": 54
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "shell_smash",
+          "level": 60
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "poltergeist"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rest"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "snore"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "protect"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "giga_drain"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "will_o_wisp"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "facade"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "imprison"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "payback"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "wonder_room"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "round"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "hex"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "phantom_force"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "psychic"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "metronome"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "substitute"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "psyshock"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "endure"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sleep_talk"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "baton_pass"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "shadow_ball"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "trick"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dark_pulse"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "nasty_plot"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "foul_play"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "stored_power"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "ally_switch"
+        }
+      ]
+    }
+  ]
+}

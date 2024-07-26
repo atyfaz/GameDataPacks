@@ -1,0 +1,328 @@
+{
+  "klass": "Specie",
+  "id": 315,
+  "dbSymbol": "roselia",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.3,
+      "weight": 2,
+      "type1": "grass",
+      "type2": "poison",
+      "baseHp": 50,
+      "baseAtk": 60,
+      "baseDfe": 45,
+      "baseSpd": 65,
+      "baseAts": 100,
+      "baseDfs": 80,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 2,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "roserade",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "stone",
+              "value": "shiny_stone"
+            }
+          ]
+        }
+      ],
+      "experienceType": 3,
+      "baseExperience": 140,
+      "baseLoyalty": 70,
+      "catchRate": 150,
+      "femaleRate": 50,
+      "breedGroups": [
+        6,
+        7
+      ],
+      "hatchSteps": 5120,
+      "babyDbSymbol": "roselia",
+      "babyForm": 0,
+      "itemHeld": [],
+      "abilities": [
+        "natural_cure",
+        "poison_point",
+        "leaf_guard"
+      ],
+      "frontOffsetY": 25,
+      "resources": {
+        "icon": "315",
+        "iconShiny": "",
+        "front": "315",
+        "frontF": "315f",
+        "frontShiny": "315",
+        "frontShinyF": "315f",
+        "back": "315",
+        "backF": "315f",
+        "backShiny": "315",
+        "backShinyF": "315f",
+        "footprint": "315",
+        "character": "315_0",
+        "characterShiny": "315s_0",
+        "cry": "315cry.ogg",
+        "hasFemale": true,
+        "iconF": "315",
+        "characterShinyF": "315s_0",
+        "characterF": "315_0"
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "worry_seed",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "poison_sting",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "absorb",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "growth",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "stun_spore",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mega_drain",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "leech_seed",
+          "level": 10
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "magical_leaf",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "toxic_spikes",
+          "level": 20
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "sweet_scent",
+          "level": 25
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "giga_drain",
+          "level": 30
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "synthesis",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "toxic",
+          "level": 40
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "petal_blizzard",
+          "level": 45
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "aromatherapy",
+          "level": 50
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "ingrain",
+          "level": 55
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "petal_dance",
+          "level": 60
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "poison_sting"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "extrasensory"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "life_dew"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "sleep_powder"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "cotton_spore"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "synthesis"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "razor_leaf"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "grassy_glide"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "pin_missile"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "solar_beam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rest"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "snore"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "protect"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "giga_drain"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "attract"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rain_dance"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sunny_day"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "facade"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "swift"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "weather_ball"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "bullet_seed"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "venoshock"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "round"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "swords_dance"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "substitute"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sludge_bomb"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "spikes"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "endure"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sleep_talk"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "shadow_ball"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "uproar"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "seed_bomb"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "energy_ball"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "leaf_storm"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "grass_knot"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dazzling_gleam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "magical_leaf"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "body_slam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "toxic_spikes"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "poison_jab"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "power_whip"
+        }
+      ]
+    }
+  ]
+}
