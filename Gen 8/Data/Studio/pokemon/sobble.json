@@ -262,7 +262,11 @@
           "klass": "TechLearnableMove",
           "move": "surf"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1263,
+        "description": 0
+      }
     }
   ]
 }

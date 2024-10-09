@@ -338,7 +338,11 @@
           "klass": "TechLearnableMove",
           "move": "bulk_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1183,
+        "description": 0
+      }
     }
   ]
 }

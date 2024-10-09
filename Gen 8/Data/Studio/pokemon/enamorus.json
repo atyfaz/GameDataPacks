@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1206,
+        "description": 0
+      },
       "height": 1.6,
       "weight": 48.2,
       "type1": "fairy",
@@ -45,9 +49,9 @@
         }
       ],
       "abilities": [
-        "prankster",
-        "prankster",
-        "defiant"
+        "cute_charm",
+        "cute_charm",
+        "contrary"
       ],
       "frontOffsetY": 0,
       "resources": {
@@ -133,6 +137,10 @@
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 1207,
+        "description": 0
+      },
       "height": 1.2,
       "weight": 36.2,
       "type1": "fairy",
@@ -173,9 +181,9 @@
         }
       ],
       "abilities": [
-        "big_pecks",
-        "big_pecks",
-        "big_pecks"
+        "overcoat",
+        "overcoat",
+        "overcoat"
       ],
       "frontOffsetY": 0,
       "resources": {

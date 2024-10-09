@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1166,
+        "description": 139
+      },
       "height": 3.2,
       "weight": 110.2,
       "type1": "water",
@@ -45,9 +49,9 @@
         }
       ],
       "abilities": [
+        "swift_swim",
         "adaptability",
-        "reckless",
-        "rock_head"
+        "mold_breaker"
       ],
       "frontOffsetY": 0,
       "resources": {
@@ -148,6 +152,10 @@
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 1166,
+        "description": 0
+      },
       "height": 3.2,
       "weight": 110.2,
       "type1": "water",

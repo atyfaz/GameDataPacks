@@ -269,7 +269,11 @@
           "klass": "TechLearnableMove",
           "move": "weather_ball"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1205,
+        "description": 0
+      }
     }
   ]
 }

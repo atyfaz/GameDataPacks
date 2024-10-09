@@ -340,7 +340,11 @@
           "klass": "TechLearnableMove",
           "move": "psycho_cut"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1239,
+        "description": 0
+      }
     }
   ]
 }

@@ -167,7 +167,11 @@
           "klass": "TechLearnableMove",
           "move": "encore"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1268,
+        "description": 0
+      }
     }
   ]
 }

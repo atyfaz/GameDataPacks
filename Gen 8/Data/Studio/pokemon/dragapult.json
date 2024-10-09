@@ -387,7 +387,11 @@
           "klass": "TechLearnableMove",
           "move": "dragon_claw"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1194,
+        "description": 0
+      }
     }
   ]
 }

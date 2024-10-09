@@ -306,7 +306,11 @@
           "klass": "TechLearnableMove",
           "move": "fire_fang"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1217,
+        "description": 0
+      }
     }
   ]
 }

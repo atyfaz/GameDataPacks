@@ -271,7 +271,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "teatime"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1244,
+        "description": 139
+      }
     },
     {
       "form": 1,
@@ -541,7 +545,11 @@
           "klass": "TechLearnableMove",
           "move": "self_destruct"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1244,
+        "description": 0
+      }
     }
   ]
 }

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1271,
+        "description": 0
+      },
       "height": 2.4,
       "weight": 290.2,
       "type1": "ground",
@@ -37,7 +41,7 @@
       "itemHeld": [],
       "abilities": [
         "guts",
-        "quick_feet",
+        "bulletproof",
         "unnerve"
       ],
       "frontOffsetY": 0,

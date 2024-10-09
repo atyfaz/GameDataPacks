@@ -289,7 +289,11 @@
           "klass": "TechLearnableMove",
           "move": "eerie_impulse"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1168,
+        "description": 0
+      }
     }
   ]
 }
