@@ -36,12 +36,7 @@
   "isUnfreeze": false,
   "battleEngineAimedTarget": "adjacent_pokemon",
   "battleStageMod": [],
-  "moveStatus": [
-    {
-      "status": "ASLEEP",
-      "luckRate": 0
-    }
-  ],
+  "moveStatus": [],
   "effectChance": 0,
   "isSlicingAttack": false,
   "isWind": false
