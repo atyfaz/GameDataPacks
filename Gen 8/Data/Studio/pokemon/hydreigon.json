@@ -435,7 +435,11 @@
           "klass": "TechLearnableMove",
           "move": "fire_spin"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 421,
+        "description": 0
+      }
     }
   ]
 }

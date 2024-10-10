@@ -396,7 +396,11 @@
           "klass": "TechLearnableMove",
           "move": "earthquake"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 224,
+        "description": 0
+      }
     }
   ]
 }

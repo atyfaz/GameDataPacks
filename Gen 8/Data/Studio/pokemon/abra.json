@@ -288,7 +288,11 @@
           "klass": "TechLearnableMove",
           "move": "snore"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 2,
+        "description": 0
+      }
     }
   ]
 }

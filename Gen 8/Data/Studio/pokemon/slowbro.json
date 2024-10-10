@@ -456,7 +456,11 @@
           "klass": "TechLearnableMove",
           "move": "body_press"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 846,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -926,7 +930,11 @@
           "klass": "TechLearnableMove",
           "move": "liquidation"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 847,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -1360,7 +1368,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1423,
+        "description": 0
+      }
     }
   ]
 }

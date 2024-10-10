@@ -305,7 +305,11 @@
           "klass": "TechLearnableMove",
           "move": "psyshock"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 50,
+        "description": 0
+      }
     }
   ]
 }

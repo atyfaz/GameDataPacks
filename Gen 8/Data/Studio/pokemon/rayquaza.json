@@ -386,7 +386,11 @@
           "klass": "TechLearnableMove",
           "move": "bulk_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 729,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -569,7 +573,11 @@
           "klass": "TutorLearnableMove",
           "move": "dragon_ascent"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 730,
+        "description": 0
+      }
     }
   ]
 }

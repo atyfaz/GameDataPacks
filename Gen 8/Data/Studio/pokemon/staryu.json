@@ -291,7 +291,11 @@
           "klass": "TechLearnableMove",
           "move": "cosmic_power"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 880,
+        "description": 0
+      }
     }
   ]
 }

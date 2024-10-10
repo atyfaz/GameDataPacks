@@ -333,6 +333,10 @@
         "characterShinyF": "413s_0",
         "cry": "413cry.ogg",
         "hasFemale": true
+      },
+      "formTextId": {
+        "name": 1064,
+        "description": 0
       }
     },
     {
@@ -661,6 +665,10 @@
         "characterShinyF": "413s_1",
         "cry": "413cry.ogg",
         "hasFemale": true
+      },
+      "formTextId": {
+        "name": 1065,
+        "description": 0
       }
     },
     {
@@ -999,6 +1007,10 @@
         "characterShinyF": "413s_2",
         "cry": "413cry.ogg",
         "hasFemale": true
+      },
+      "formTextId": {
+        "name": 1066,
+        "description": 0
       }
     }
   ]

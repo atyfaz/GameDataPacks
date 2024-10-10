@@ -270,7 +270,11 @@
           "klass": "TechLearnableMove",
           "move": "ice_fang"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 857,
+        "description": 0
+      }
     }
   ]
 }

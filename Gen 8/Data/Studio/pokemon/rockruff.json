@@ -315,7 +315,11 @@
           "klass": "TechLearnableMove",
           "move": "play_rough"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 744,
+        "description": 0
+      }
     }
   ]
 }

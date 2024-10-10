@@ -283,7 +283,11 @@
           "klass": "TechLearnableMove",
           "move": "u_turn"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 905,
+        "description": 0
+      }
     }
   ]
 }

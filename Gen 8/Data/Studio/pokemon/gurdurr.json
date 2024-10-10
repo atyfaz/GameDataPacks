@@ -332,7 +332,11 @@
           "klass": "TechLearnableMove",
           "move": "close_combat"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 387,
+        "description": 0
+      }
     }
   ]
 }

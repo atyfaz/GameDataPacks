@@ -319,7 +319,11 @@
           "klass": "TechLearnableMove",
           "move": "rock_slide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 779,
+        "description": 0
+      }
     }
   ]
 }

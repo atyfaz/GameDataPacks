@@ -366,7 +366,11 @@
           "klass": "BreedLearnableMove",
           "move": "toxic"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1001,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -721,7 +725,11 @@
           "klass": "TechLearnableMove",
           "move": "work_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1002,
+        "description": 0
+      }
     }
   ]
 }

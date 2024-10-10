@@ -382,7 +382,11 @@
           "klass": "TechLearnableMove",
           "move": "earth_power"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 65,
+        "description": 0
+      }
     }
   ]
 }

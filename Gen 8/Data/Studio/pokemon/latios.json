@@ -402,7 +402,11 @@
           "klass": "TechLearnableMove",
           "move": "ally_switch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 478,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -824,7 +828,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 479,
+        "description": 0
+      }
     }
   ]
 }

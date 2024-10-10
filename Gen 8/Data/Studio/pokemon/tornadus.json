@@ -315,7 +315,11 @@
           "klass": "TechLearnableMove",
           "move": "uproar"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 935,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -629,7 +633,11 @@
           "klass": "TechLearnableMove",
           "move": "uproar"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 936,
+        "description": 0
+      }
     }
   ]
 }

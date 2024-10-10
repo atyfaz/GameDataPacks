@@ -312,7 +312,11 @@
           "klass": "TechLearnableMove",
           "move": "superpower"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 506,
+        "description": 0
+      }
     }
   ]
 }

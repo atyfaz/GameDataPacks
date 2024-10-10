@@ -346,7 +346,11 @@
           "klass": "TechLearnableMove",
           "move": "drill_run"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 408,
+        "description": 0
+      }
     }
   ]
 }

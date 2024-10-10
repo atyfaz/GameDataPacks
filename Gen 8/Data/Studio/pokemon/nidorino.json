@@ -312,7 +312,11 @@
           "klass": "TechLearnableMove",
           "move": "stomping_tantrum"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 614,
+        "description": 0
+      }
     }
   ]
 }

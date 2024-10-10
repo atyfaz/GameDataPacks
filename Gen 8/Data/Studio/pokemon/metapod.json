@@ -92,7 +92,11 @@
           "klass": "TechLearnableMove",
           "move": "iron_defense"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 562,
+        "description": 0
+      }
     }
   ]
 }

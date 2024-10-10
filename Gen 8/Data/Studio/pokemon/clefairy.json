@@ -481,7 +481,11 @@
           "klass": "TutorLearnableMove",
           "move": "misty_explosion"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 156,
+        "description": 0
+      }
     }
   ]
 }

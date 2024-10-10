@@ -397,7 +397,11 @@
           "klass": "BreedLearnableMove",
           "move": "wing_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 600,
+        "description": 0
+      }
     }
   ]
 }

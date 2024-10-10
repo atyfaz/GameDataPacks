@@ -308,7 +308,11 @@
           "klass": "TechLearnableMove",
           "move": "hyper_voice"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 530,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -609,7 +613,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 531,
+        "description": 0
+      }
     }
   ]
 }

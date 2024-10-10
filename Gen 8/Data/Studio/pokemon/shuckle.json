@@ -311,7 +311,11 @@
           "klass": "TechLearnableMove",
           "move": "stealth_rock"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 810,
+        "description": 0
+      }
     }
   ]
 }

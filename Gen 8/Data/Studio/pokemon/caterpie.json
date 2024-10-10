@@ -94,7 +94,11 @@
           "klass": "TechLearnableMove",
           "move": "electroweb"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 128,
+        "description": 0
+      }
     }
   ]
 }

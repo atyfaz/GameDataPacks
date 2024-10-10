@@ -369,7 +369,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "spiky_shield"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 115,
+        "description": 0
+      }
     }
   ]
 }

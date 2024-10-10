@@ -495,7 +495,11 @@
           "klass": "TechLearnableMove",
           "move": "metronome"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 564,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -987,7 +991,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 565,
+        "description": 0
+      }
     },
     {
       "form": 31,
@@ -1479,7 +1487,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 566,
+        "description": 0
+      }
     }
   ]
 }

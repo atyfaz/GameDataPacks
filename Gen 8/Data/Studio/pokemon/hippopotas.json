@@ -292,7 +292,11 @@
           "klass": "TechLearnableMove",
           "move": "crunch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 404,
+        "description": 0
+      }
     }
   ]
 }

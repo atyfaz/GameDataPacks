@@ -353,7 +353,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "rock_slide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 116,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -939,7 +943,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 117,
+        "description": 0
+      }
     }
   ]
 }

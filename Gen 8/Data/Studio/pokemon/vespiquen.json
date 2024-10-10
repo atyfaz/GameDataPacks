@@ -301,7 +301,11 @@
           "klass": "TechLearnableMove",
           "move": "thief"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1003,
+        "description": 0
+      }
     }
   ]
 }

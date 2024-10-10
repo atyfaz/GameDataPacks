@@ -117,7 +117,11 @@
           "klass": "TechLearnableMove",
           "move": "bug_buzz"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 161,
+        "description": 0
+      }
     }
   ]
 }

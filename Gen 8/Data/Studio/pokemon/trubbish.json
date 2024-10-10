@@ -283,7 +283,11 @@
           "klass": "TechLearnableMove",
           "move": "venom_drench"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 948,
+        "description": 0
+      }
     }
   ]
 }

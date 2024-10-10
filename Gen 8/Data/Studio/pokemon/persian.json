@@ -347,7 +347,11 @@
           "klass": "TechLearnableMove",
           "move": "power_gem"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 656,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -714,7 +718,11 @@
           "klass": "TechLearnableMove",
           "move": "snarl"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 657,
+        "description": 0
+      }
     }
   ]
 }

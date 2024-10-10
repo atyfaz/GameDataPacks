@@ -358,7 +358,11 @@
           "klass": "TechLearnableMove",
           "move": "bulldoze"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 27,
+        "description": 0
+      }
     }
   ]
 }

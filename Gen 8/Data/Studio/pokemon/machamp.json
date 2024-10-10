@@ -392,7 +392,11 @@
           "klass": "TechLearnableMove",
           "move": "cross_poison"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 513,
+        "description": 0
+      }
     }
   ]
 }

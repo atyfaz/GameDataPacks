@@ -322,7 +322,11 @@
           "klass": "TechLearnableMove",
           "move": "waterfall"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 909,
+        "description": 0
+      }
     }
   ]
 }

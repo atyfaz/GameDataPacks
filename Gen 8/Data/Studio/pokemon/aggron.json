@@ -466,7 +466,11 @@
           "klass": "TechLearnableMove",
           "move": "high_horsepower"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 11,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -932,7 +936,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 12,
+        "description": 0
+      }
     }
   ]
 }

@@ -310,7 +310,11 @@
           "klass": "TechLearnableMove",
           "move": "hyper_beam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1071,
+        "description": 0
+      }
     }
   ]
 }

@@ -349,7 +349,11 @@
           "klass": "TechLearnableMove",
           "move": "leaf_storm"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 0,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -688,7 +692,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1,
+        "description": 0
+      }
     }
   ]
 }

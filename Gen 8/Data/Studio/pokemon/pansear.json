@@ -399,6 +399,10 @@
         "characterShiny": "513s_0",
         "cry": "513cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 649,
+        "description": 0
       }
     }
   ]

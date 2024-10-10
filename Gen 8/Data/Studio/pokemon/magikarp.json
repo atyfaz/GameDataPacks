@@ -97,7 +97,11 @@
           "klass": "TechLearnableMove",
           "move": "hydro_pump"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 519,
+        "description": 0
+      }
     }
   ]
 }

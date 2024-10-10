@@ -299,7 +299,11 @@
           "klass": "TechLearnableMove",
           "move": "giga_impact"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 131,
+        "description": 0
+      }
     }
   ]
 }

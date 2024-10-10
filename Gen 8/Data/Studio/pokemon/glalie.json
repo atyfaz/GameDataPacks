@@ -321,7 +321,11 @@
           "klass": "TechLearnableMove",
           "move": "iron_head"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 345,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -633,7 +637,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 346,
+        "description": 0
+      }
     }
   ]
 }

@@ -310,7 +310,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "beak_blast"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 940,
+        "description": 0
+      }
     }
   ]
 }

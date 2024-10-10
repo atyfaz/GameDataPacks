@@ -334,7 +334,11 @@
           "klass": "TechLearnableMove",
           "move": "body_slam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 594,
+        "description": 0
+      }
     }
   ]
 }

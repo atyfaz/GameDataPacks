@@ -259,7 +259,11 @@
           "klass": "TechLearnableMove",
           "move": "avalanche"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 52,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -541,7 +545,11 @@
           "klass": "TechLearnableMove",
           "move": "ally_switch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1175,
+        "description": 0
+      }
     }
   ]
 }

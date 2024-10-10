@@ -302,7 +302,11 @@
           "klass": "TechLearnableMove",
           "move": "fly"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 330,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -612,7 +616,11 @@
           "klass": "TechLearnableMove",
           "move": "fly"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 331,
+        "description": 0
+      }
     },
     {
       "form": 2,
@@ -922,7 +930,11 @@
           "klass": "TechLearnableMove",
           "move": "fly"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 332,
+        "description": 0
+      }
     },
     {
       "form": 3,
@@ -1232,7 +1244,11 @@
           "klass": "TechLearnableMove",
           "move": "fly"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 333,
+        "description": 0
+      }
     },
     {
       "form": 4,
@@ -1542,7 +1558,11 @@
           "klass": "TechLearnableMove",
           "move": "fly"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 334,
+        "description": 0
+      }
     }
   ]
 }

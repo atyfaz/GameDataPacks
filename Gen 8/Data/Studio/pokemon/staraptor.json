@@ -285,7 +285,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "close_combat"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 876,
+        "description": 0
+      }
     }
   ]
 }

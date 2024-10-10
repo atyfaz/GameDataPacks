@@ -385,7 +385,11 @@
           "klass": "BreedLearnableMove",
           "move": "volt_tackle"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 670,
+        "description": 0
+      }
     },
     {
       "form": 2,
@@ -679,7 +683,11 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 671,
+        "description": 0
+      }
     },
     {
       "form": 3,
@@ -1017,7 +1025,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 672,
+        "description": 0
+      }
     },
     {
       "form": 4,
@@ -1355,7 +1367,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 673,
+        "description": 0
+      }
     },
     {
       "form": 5,
@@ -1693,7 +1709,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 674,
+        "description": 0
+      }
     },
     {
       "form": 6,
@@ -2031,7 +2051,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 675,
+        "description": 0
+      }
     },
     {
       "form": 7,
@@ -2369,7 +2393,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 676,
+        "description": 0
+      }
     },
     {
       "form": 8,
@@ -2753,7 +2781,11 @@
           "klass": "BreedLearnableMove",
           "move": "volt_tackle"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 677,
+        "description": 0
+      }
     },
     {
       "form": 9,
@@ -3153,7 +3185,11 @@
           "klass": "BreedLearnableMove",
           "move": "volt_tackle"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 678,
+        "description": 0
+      }
     },
     {
       "form": 10,
@@ -3537,7 +3573,11 @@
           "klass": "BreedLearnableMove",
           "move": "volt_tackle"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 679,
+        "description": 0
+      }
     },
     {
       "form": 11,
@@ -3921,7 +3961,11 @@
           "klass": "BreedLearnableMove",
           "move": "volt_tackle"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1370,
+        "description": 0
+      }
     },
     {
       "form": 12,
@@ -4305,7 +4349,11 @@
           "klass": "BreedLearnableMove",
           "move": "volt_tackle"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1371,
+        "description": 0
+      }
     },
     {
       "form": 13,
@@ -4689,7 +4737,11 @@
           "klass": "BreedLearnableMove",
           "move": "volt_tackle"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1372,
+        "description": 0
+      }
     },
     {
       "form": 14,
@@ -5073,7 +5125,11 @@
           "klass": "BreedLearnableMove",
           "move": "volt_tackle"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1373,
+        "description": 0
+      }
     }
   ]
 }

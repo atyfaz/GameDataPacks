@@ -456,7 +456,11 @@
           "klass": "TechLearnableMove",
           "move": "sleep_talk"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 848,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -940,7 +944,11 @@
           "klass": "TechLearnableMove",
           "move": "sludge_wave"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1424,
+        "description": 0
+      }
     }
   ]
 }

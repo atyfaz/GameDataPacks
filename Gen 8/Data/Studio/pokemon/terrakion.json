@@ -305,7 +305,11 @@
           "klass": "TechLearnableMove",
           "move": "stomping_tantrum"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 923,
+        "description": 0
+      }
     }
   ]
 }

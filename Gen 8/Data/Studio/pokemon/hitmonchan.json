@@ -377,7 +377,11 @@
           "klass": "TechLearnableMove",
           "move": "metronome"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 406,
+        "description": 0
+      }
     }
   ]
 }

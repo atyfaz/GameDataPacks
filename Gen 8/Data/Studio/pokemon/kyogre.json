@@ -294,7 +294,11 @@
           "klass": "TechLearnableMove",
           "move": "liquidation"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 463,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -463,7 +467,11 @@
           "klass": "TutorLearnableMove",
           "move": "iron_head"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 464,
+        "description": 0
+      }
     }
   ]
 }

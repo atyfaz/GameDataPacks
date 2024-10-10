@@ -430,7 +430,11 @@
           "klass": "TechLearnableMove",
           "move": "reversal"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 425,
+        "description": 0
+      }
     }
   ]
 }

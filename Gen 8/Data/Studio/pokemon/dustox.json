@@ -291,7 +291,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "gust"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 241,
+        "description": 0
+      }
     }
   ]
 }

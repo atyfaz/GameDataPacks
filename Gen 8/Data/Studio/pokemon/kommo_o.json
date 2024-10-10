@@ -423,7 +423,11 @@
           "klass": "TechLearnableMove",
           "move": "flash_cannon"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 457,
+        "description": 0
+      }
     }
   ]
 }

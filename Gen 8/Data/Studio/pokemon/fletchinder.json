@@ -260,7 +260,11 @@
           "klass": "TechLearnableMove",
           "move": "fire_blast"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 282,
+        "description": 0
+      }
     }
   ]
 }

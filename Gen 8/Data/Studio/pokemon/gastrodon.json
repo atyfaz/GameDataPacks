@@ -318,7 +318,11 @@
           "klass": "TechLearnableMove",
           "move": "rock_slide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 328,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -644,7 +648,11 @@
           "klass": "BreedLearnableMove",
           "move": "mirror_coat"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 329,
+        "description": 0
+      }
     }
   ]
 }

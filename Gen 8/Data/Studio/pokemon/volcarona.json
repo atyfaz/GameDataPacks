@@ -337,7 +337,11 @@
           "klass": "TechLearnableMove",
           "move": "hurricane"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1034,
+        "description": 0
+      }
     }
   ]
 }

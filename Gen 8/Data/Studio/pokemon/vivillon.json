@@ -312,6 +312,10 @@
         "characterShiny": "666s_0",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1011,
+        "description": 0
       }
     },
     {
@@ -623,6 +627,10 @@
         "characterShiny": "666s_1",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1012,
+        "description": 0
       }
     },
     {
@@ -934,6 +942,10 @@
         "characterShiny": "666s_2",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1013,
+        "description": 0
       }
     },
     {
@@ -1245,6 +1257,10 @@
         "characterShiny": "666s_3",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1014,
+        "description": 0
       }
     },
     {
@@ -1556,6 +1572,10 @@
         "characterShiny": "666s_4",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1015,
+        "description": 0
       }
     },
     {
@@ -1867,6 +1887,10 @@
         "characterShiny": "666s_5",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1016,
+        "description": 0
       }
     },
     {
@@ -2178,6 +2202,10 @@
         "characterShiny": "666s_6",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1017,
+        "description": 0
       }
     },
     {
@@ -2489,6 +2517,10 @@
         "characterShiny": "666s_7",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1018,
+        "description": 0
       }
     },
     {
@@ -2800,6 +2832,10 @@
         "characterShiny": "666s_8",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1019,
+        "description": 0
       }
     },
     {
@@ -3111,6 +3147,10 @@
         "characterShiny": "666s_9",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1020,
+        "description": 0
       }
     },
     {
@@ -3422,6 +3462,10 @@
         "characterShiny": "666s_10",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1021,
+        "description": 0
       }
     },
     {
@@ -3733,6 +3777,10 @@
         "characterShiny": "666s_11",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1022,
+        "description": 0
       }
     },
     {
@@ -4044,6 +4092,10 @@
         "characterShiny": "666s_12",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1023,
+        "description": 0
       }
     },
     {
@@ -4355,6 +4407,10 @@
         "characterShiny": "666s_13",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1024,
+        "description": 0
       }
     },
     {
@@ -4666,6 +4722,10 @@
         "characterShiny": "666s_14",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1025,
+        "description": 0
       }
     },
     {
@@ -4977,6 +5037,10 @@
         "characterShiny": "666s_15",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1026,
+        "description": 0
       }
     },
     {
@@ -5288,6 +5352,10 @@
         "characterShiny": "666s_16",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1027,
+        "description": 0
       }
     },
     {
@@ -5599,6 +5667,10 @@
         "characterShiny": "666s_17",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1028,
+        "description": 0
       }
     },
     {
@@ -5910,6 +5982,10 @@
         "characterShiny": "666s_18",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1029,
+        "description": 0
       }
     },
     {
@@ -6221,6 +6297,10 @@
         "characterShiny": "666s_19",
         "cry": "666cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1030,
+        "description": 0
       }
     }
   ]

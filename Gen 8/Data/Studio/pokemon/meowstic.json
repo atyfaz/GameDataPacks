@@ -359,7 +359,11 @@
           "klass": "TechLearnableMove",
           "move": "shadow_ball"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 554,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -724,7 +728,11 @@
           "klass": "TechLearnableMove",
           "move": "future_sight"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 555,
+        "description": 0
+      }
     }
   ]
 }

@@ -357,7 +357,11 @@
           "klass": "BreedLearnableMove",
           "move": "yawn"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 624,
+        "description": 0
+      }
     }
   ]
 }

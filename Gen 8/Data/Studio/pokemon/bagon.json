@@ -271,7 +271,11 @@
           "klass": "TechLearnableMove",
           "move": "zen_headbutt"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 61,
+        "description": 0
+      }
     }
   ]
 }

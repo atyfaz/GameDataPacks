@@ -333,7 +333,11 @@
           "klass": "TechLearnableMove",
           "move": "tri_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 75,
+        "description": 0
+      }
     }
   ]
 }

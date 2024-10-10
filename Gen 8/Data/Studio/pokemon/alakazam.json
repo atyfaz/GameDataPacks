@@ -395,7 +395,11 @@
           "klass": "TechLearnableMove",
           "move": "imprison"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 14,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -790,7 +794,11 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 15,
+        "description": 0
+      }
     }
   ]
 }

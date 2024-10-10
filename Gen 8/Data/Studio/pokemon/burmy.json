@@ -133,6 +133,10 @@
         "characterShiny": "412s_0",
         "cry": "412cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 108,
+        "description": 0
       }
     },
     {
@@ -265,6 +269,10 @@
         "characterShiny": "412s_1",
         "cry": "412cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 109,
+        "description": 0
       }
     },
     {
@@ -397,6 +405,10 @@
         "characterShiny": "412s_2",
         "cry": "412cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 110,
+        "description": 0
       }
     }
   ]

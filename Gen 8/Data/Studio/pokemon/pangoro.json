@@ -435,7 +435,11 @@
           "klass": "TechLearnableMove",
           "move": "revenge"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 646,
+        "description": 0
+      }
     }
   ]
 }

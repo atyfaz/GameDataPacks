@@ -303,7 +303,11 @@
           "klass": "BreedLearnableMove",
           "move": "thunder_fang"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1076,
+        "description": 0
+      }
     }
   ]
 }

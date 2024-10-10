@@ -324,7 +324,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "twineedle"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 73,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -664,7 +668,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "string_shot"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 74,
+        "description": 0
+      }
     }
   ]
 }

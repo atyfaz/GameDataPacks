@@ -316,7 +316,11 @@
           "klass": "TechLearnableMove",
           "move": "helping_hand"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1087,
+        "description": 0
+      }
     }
   ]
 }

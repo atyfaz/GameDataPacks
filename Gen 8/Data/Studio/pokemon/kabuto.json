@@ -325,7 +325,11 @@
           "klass": "TechLearnableMove",
           "move": "screech"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 437,
+        "description": 0
+      }
     }
   ]
 }

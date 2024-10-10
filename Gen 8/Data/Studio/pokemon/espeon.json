@@ -399,7 +399,11 @@
           "klass": "TechLearnableMove",
           "move": "psychic_fangs"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 258,
+        "description": 0
+      }
     }
   ]
 }

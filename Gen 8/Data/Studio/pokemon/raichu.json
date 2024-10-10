@@ -411,7 +411,11 @@
           "klass": "BreedLearnableMove",
           "move": "volt_tackle"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 716,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -846,7 +850,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "psychic"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 717,
+        "description": 0
+      }
     }
   ]
 }

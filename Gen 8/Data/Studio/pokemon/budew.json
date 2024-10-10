@@ -230,7 +230,11 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 103,
+        "description": 0
+      }
     }
   ]
 }

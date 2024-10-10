@@ -292,7 +292,11 @@
           "klass": "TechLearnableMove",
           "move": "flare_blitz"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 516,
+        "description": 0
+      }
     }
   ]
 }

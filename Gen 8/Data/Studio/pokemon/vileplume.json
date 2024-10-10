@@ -323,7 +323,11 @@
           "klass": "TechLearnableMove",
           "move": "safeguard"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1009,
+        "description": 0
+      }
     }
   ]
 }

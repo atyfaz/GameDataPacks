@@ -417,6 +417,10 @@
         "characterShiny": "650s_0",
         "cry": "650cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 144,
+        "description": 0
       }
     }
   ]

@@ -316,7 +316,11 @@
           "klass": "TechLearnableMove",
           "move": "darkest_lariat"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 113,
+        "description": 0
+      }
     }
   ]
 }

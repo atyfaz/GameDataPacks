@@ -416,7 +416,11 @@
           "klass": "TechLearnableMove",
           "move": "icy_wind"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 441,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -829,7 +833,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 442,
+        "description": 0
+      }
     }
   ]
 }

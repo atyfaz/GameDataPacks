@@ -334,7 +334,11 @@
           "klass": "TechLearnableMove",
           "move": "gunk_shot"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 655,
+        "description": 0
+      }
     }
   ]
 }

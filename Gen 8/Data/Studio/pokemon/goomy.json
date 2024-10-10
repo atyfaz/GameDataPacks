@@ -226,7 +226,11 @@
           "klass": "TechLearnableMove",
           "move": "sludge_wave"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 361,
+        "description": 0
+      }
     }
   ]
 }

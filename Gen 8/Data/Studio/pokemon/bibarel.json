@@ -360,7 +360,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "water_gun"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 81,
+        "description": 0
+      }
     }
   ]
 }

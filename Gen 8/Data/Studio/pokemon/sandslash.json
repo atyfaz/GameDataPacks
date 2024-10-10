@@ -366,7 +366,11 @@
           "klass": "TechLearnableMove",
           "move": "drill_run"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 766,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -757,7 +761,11 @@
           "klass": "TechLearnableMove",
           "move": "agility"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 767,
+        "description": 0
+      }
     }
   ]
 }

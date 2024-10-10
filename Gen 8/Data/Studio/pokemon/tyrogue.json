@@ -262,7 +262,11 @@
           "klass": "TechLearnableMove",
           "move": "uproar"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 960,
+        "description": 0
+      }
     }
   ]
 }

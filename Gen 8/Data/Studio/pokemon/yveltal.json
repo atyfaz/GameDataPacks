@@ -302,7 +302,11 @@
           "klass": "TechLearnableMove",
           "move": "fly"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1077,
+        "description": 0
+      }
     }
   ]
 }

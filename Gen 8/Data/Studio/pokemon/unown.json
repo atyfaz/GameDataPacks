@@ -73,6 +73,10 @@
         "characterShiny": "201s_0",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 964,
+        "description": 0
       }
     },
     {
@@ -145,6 +149,10 @@
         "characterShiny": "201s_1",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 965,
+        "description": 0
       }
     },
     {
@@ -217,6 +225,10 @@
         "characterShiny": "201s_2",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 966,
+        "description": 0
       }
     },
     {
@@ -289,6 +301,10 @@
         "characterShiny": "201s_3",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 967,
+        "description": 0
       }
     },
     {
@@ -361,6 +377,10 @@
         "characterShiny": "201s_4",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 968,
+        "description": 0
       }
     },
     {
@@ -433,6 +453,10 @@
         "characterShiny": "201s_5",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 969,
+        "description": 0
       }
     },
     {
@@ -505,6 +529,10 @@
         "characterShiny": "201s_6",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 970,
+        "description": 0
       }
     },
     {
@@ -577,6 +605,10 @@
         "characterShiny": "201s_7",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 971,
+        "description": 0
       }
     },
     {
@@ -649,6 +681,10 @@
         "characterShiny": "201s_8",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 972,
+        "description": 0
       }
     },
     {
@@ -721,6 +757,10 @@
         "characterShiny": "201s_9",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 973,
+        "description": 0
       }
     },
     {
@@ -793,6 +833,10 @@
         "characterShiny": "201s_10",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 974,
+        "description": 0
       }
     },
     {
@@ -865,6 +909,10 @@
         "characterShiny": "201s_11",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 975,
+        "description": 0
       }
     },
     {
@@ -937,6 +985,10 @@
         "characterShiny": "201s_12",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 976,
+        "description": 0
       }
     },
     {
@@ -1009,6 +1061,10 @@
         "characterShiny": "201s_13",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 977,
+        "description": 0
       }
     },
     {
@@ -1081,6 +1137,10 @@
         "characterShiny": "201s_14",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 978,
+        "description": 0
       }
     },
     {
@@ -1153,6 +1213,10 @@
         "characterShiny": "201s_15",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 979,
+        "description": 0
       }
     },
     {
@@ -1225,6 +1289,10 @@
         "characterShiny": "201s_16",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 980,
+        "description": 0
       }
     },
     {
@@ -1297,6 +1365,10 @@
         "characterShiny": "201s_17",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 981,
+        "description": 0
       }
     },
     {
@@ -1369,6 +1441,10 @@
         "characterShiny": "201s_18",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 982,
+        "description": 0
       }
     },
     {
@@ -1441,6 +1517,10 @@
         "characterShiny": "201s_19",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 983,
+        "description": 0
       }
     },
     {
@@ -1513,6 +1593,10 @@
         "characterShiny": "201s_20",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 984,
+        "description": 0
       }
     },
     {
@@ -1585,6 +1669,10 @@
         "characterShiny": "201s_21",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 985,
+        "description": 0
       }
     },
     {
@@ -1657,6 +1745,10 @@
         "characterShiny": "201s_22",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 986,
+        "description": 0
       }
     },
     {
@@ -1729,6 +1821,10 @@
         "characterShiny": "201s_23",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 987,
+        "description": 0
       }
     },
     {
@@ -1801,6 +1897,10 @@
         "characterShiny": "201s_24",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 988,
+        "description": 0
       }
     },
     {
@@ -1873,6 +1973,10 @@
         "characterShiny": "201s_25",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 989,
+        "description": 0
       }
     },
     {
@@ -1945,6 +2049,10 @@
         "characterShiny": "201s_26",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 990,
+        "description": 0
       }
     },
     {
@@ -2017,6 +2125,10 @@
         "characterShiny": "201s_27",
         "cry": "201cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 991,
+        "description": 0
       }
     }
   ]

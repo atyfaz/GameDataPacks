@@ -297,7 +297,11 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 304,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -593,7 +597,11 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 305,
+        "description": 0
+      }
     },
     {
       "form": 2,
@@ -889,7 +897,11 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 306,
+        "description": 0
+      }
     },
     {
       "form": 3,
@@ -1185,7 +1197,11 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 307,
+        "description": 0
+      }
     },
     {
       "form": 4,
@@ -1481,7 +1497,11 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 308,
+        "description": 0
+      }
     },
     {
       "form": 5,
@@ -1777,7 +1797,11 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 309,
+        "description": 0
+      }
     },
     {
       "form": 6,
@@ -2073,7 +2097,11 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 310,
+        "description": 0
+      }
     },
     {
       "form": 7,
@@ -2369,7 +2397,11 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 311,
+        "description": 0
+      }
     },
     {
       "form": 8,
@@ -2665,7 +2697,11 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 312,
+        "description": 0
+      }
     },
     {
       "form": 9,
@@ -2961,7 +2997,11 @@
           "klass": "BreedLearnableMove",
           "move": "work_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 313,
+        "description": 0
+      }
     }
   ]
 }

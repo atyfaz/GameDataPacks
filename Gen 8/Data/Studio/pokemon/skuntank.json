@@ -349,7 +349,11 @@
           "klass": "TechLearnableMove",
           "move": "poison_jab"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 842,
+        "description": 0
+      }
     }
   ]
 }

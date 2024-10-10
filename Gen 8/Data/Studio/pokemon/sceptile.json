@@ -458,7 +458,11 @@
           "klass": "TechLearnableMove",
           "move": "cross_poison"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 775,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -870,7 +874,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 776,
+        "description": 0
+      }
     }
   ]
 }

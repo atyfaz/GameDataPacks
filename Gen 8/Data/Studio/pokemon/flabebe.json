@@ -316,7 +316,11 @@
           "klass": "BreedLearnableMove",
           "move": "tearful_look"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 276,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -631,7 +635,11 @@
           "klass": "BreedLearnableMove",
           "move": "tearful_look"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 277,
+        "description": 0
+      }
     },
     {
       "form": 2,
@@ -946,7 +954,11 @@
           "klass": "BreedLearnableMove",
           "move": "tearful_look"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 278,
+        "description": 0
+      }
     },
     {
       "form": 3,
@@ -1261,7 +1273,11 @@
           "klass": "BreedLearnableMove",
           "move": "tearful_look"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 279,
+        "description": 0
+      }
     },
     {
       "form": 4,
@@ -1576,7 +1592,11 @@
           "klass": "BreedLearnableMove",
           "move": "tearful_look"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 280,
+        "description": 0
+      }
     }
   ]
 }

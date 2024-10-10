@@ -458,6 +458,10 @@
         "characterShiny": "648s_0",
         "cry": "648cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 551,
+        "description": 0
       }
     },
     {
@@ -915,6 +919,10 @@
         "characterShiny": "648s_1",
         "cry": "648cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 552,
+        "description": 0
       }
     }
   ]

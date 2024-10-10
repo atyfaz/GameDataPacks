@@ -347,7 +347,11 @@
           "klass": "TechLearnableMove",
           "move": "avalanche"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 473,
+        "description": 0
+      }
     }
   ]
 }

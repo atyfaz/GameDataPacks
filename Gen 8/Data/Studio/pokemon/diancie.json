@@ -336,7 +336,11 @@
           "klass": "TechLearnableMove",
           "move": "body_press"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 210,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -679,7 +683,11 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 211,
+        "description": 0
+      }
     }
   ]
 }

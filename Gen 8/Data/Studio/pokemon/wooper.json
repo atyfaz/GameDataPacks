@@ -334,7 +334,11 @@
           "klass": "TechLearnableMove",
           "move": "amnesia"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1063,
+        "description": 0
+      }
     }
   ]
 }

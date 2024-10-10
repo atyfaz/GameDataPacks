@@ -315,7 +315,11 @@
           "klass": "TechLearnableMove",
           "move": "swift"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 382,
+        "description": 0
+      }
     }
   ]
 }

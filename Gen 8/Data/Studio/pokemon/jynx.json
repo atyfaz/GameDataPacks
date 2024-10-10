@@ -394,7 +394,11 @@
           "klass": "TechLearnableMove",
           "move": "brick_break"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 436,
+        "description": 0
+      }
     }
   ]
 }

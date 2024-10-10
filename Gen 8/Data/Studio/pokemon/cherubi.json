@@ -265,7 +265,11 @@
           "klass": "TechLearnableMove",
           "move": "pollen_puff"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 142,
+        "description": 0
+      }
     }
   ]
 }

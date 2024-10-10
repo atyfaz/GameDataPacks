@@ -327,7 +327,11 @@
           "klass": "TechLearnableMove",
           "move": "sleep_talk"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1037,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -637,7 +641,11 @@
           "klass": "TechLearnableMove",
           "move": "rain_dance"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1038,
+        "description": 0
+      }
     }
   ]
 }

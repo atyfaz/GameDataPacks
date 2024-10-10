@@ -373,7 +373,11 @@
           "klass": "TechLearnableMove",
           "move": "ally_switch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 605,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -736,7 +740,11 @@
           "klass": "TechLearnableMove",
           "move": "ally_switch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 606,
+        "description": 0
+      }
     },
     {
       "form": 2,
@@ -1099,7 +1107,11 @@
           "klass": "TechLearnableMove",
           "move": "ally_switch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 607,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -1544,7 +1556,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 608,
+        "description": 0
+      }
     }
   ]
 }

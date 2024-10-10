@@ -310,7 +310,11 @@
           "klass": "TechLearnableMove",
           "move": "toxic_spikes"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 455,
+        "description": 0
+      }
     }
   ]
 }

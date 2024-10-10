@@ -310,7 +310,11 @@
           "klass": "BreedLearnableMove",
           "move": "toxic"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 105,
+        "description": 0
+      }
     }
   ]
 }

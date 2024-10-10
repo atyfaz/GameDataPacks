@@ -268,7 +268,11 @@
           "klass": "TechLearnableMove",
           "move": "high_horsepower"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 228,
+        "description": 0
+      }
     }
   ]
 }

@@ -371,7 +371,11 @@
           "klass": "TechLearnableMove",
           "move": "fling"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 738,
+        "description": 0
+      }
     }
   ]
 }

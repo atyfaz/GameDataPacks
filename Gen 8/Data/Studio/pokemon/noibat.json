@@ -301,7 +301,11 @@
           "klass": "TechLearnableMove",
           "move": "outrage"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 621,
+        "description": 0
+      }
     }
   ]
 }

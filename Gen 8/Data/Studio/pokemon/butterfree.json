@@ -301,7 +301,11 @@
           "klass": "TechLearnableMove",
           "move": "endure"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 112,
+        "description": 0
+      }
     }
   ]
 }

@@ -247,7 +247,11 @@
           "klass": "TechLearnableMove",
           "move": "blizzard"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 845,
+        "description": 0
+      }
     }
   ]
 }

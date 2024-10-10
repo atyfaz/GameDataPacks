@@ -353,7 +353,11 @@
           "klass": "TechLearnableMove",
           "move": "self_destruct"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 327,
+        "description": 0
+      }
     }
   ]
 }

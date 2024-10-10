@@ -324,7 +324,11 @@
           "klass": "TechLearnableMove",
           "move": "sand_tomb"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 233,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -667,7 +671,11 @@
           "klass": "TechLearnableMove",
           "move": "sand_tomb"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 234,
+        "description": 0
+      }
     }
   ]
 }
