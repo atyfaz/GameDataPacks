@@ -315,7 +315,11 @@
           "klass": "TechLearnableMove",
           "move": "will_o_wisp"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 397,
+        "description": 0
+      }
     }
   ]
 }

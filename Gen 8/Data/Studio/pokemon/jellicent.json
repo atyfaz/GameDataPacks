@@ -321,7 +321,11 @@
           "klass": "TechLearnableMove",
           "move": "muddy_water"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 430,
+        "description": 0
+      }
     }
   ]
 }

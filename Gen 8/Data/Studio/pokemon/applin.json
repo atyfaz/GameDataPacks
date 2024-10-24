@@ -123,7 +123,11 @@
           "klass": "TechLearnableMove",
           "move": "attract"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1166,
+        "description": 0
+      }
     }
   ]
 }

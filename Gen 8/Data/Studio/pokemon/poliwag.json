@@ -274,7 +274,11 @@
           "klass": "TechLearnableMove",
           "move": "scald"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 689,
+        "description": 0
+      }
     }
   ]
 }

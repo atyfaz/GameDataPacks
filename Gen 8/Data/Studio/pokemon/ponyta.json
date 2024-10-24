@@ -288,7 +288,11 @@
           "klass": "TechLearnableMove",
           "move": "fire_spin"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 692,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -563,7 +567,11 @@
           "klass": "TechLearnableMove",
           "move": "high_horsepower"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1381,
+        "description": 0
+      }
     }
   ]
 }

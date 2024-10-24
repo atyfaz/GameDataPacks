@@ -360,7 +360,11 @@
           "klass": "BreedLearnableMove",
           "move": "tailwind"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 483,
+        "description": 0
+      }
     }
   ]
 }

@@ -179,7 +179,11 @@
           "klass": "TechLearnableMove",
           "move": "baton_pass"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1240,
+        "description": 0
+      }
     }
   ]
 }

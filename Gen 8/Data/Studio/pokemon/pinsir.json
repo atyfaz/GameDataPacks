@@ -316,7 +316,11 @@
           "klass": "TechLearnableMove",
           "move": "secret_power"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 683,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -634,7 +638,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 684,
+        "description": 0
+      }
     }
   ]
 }

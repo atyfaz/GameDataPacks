@@ -470,7 +470,11 @@
           "klass": "TechLearnableMove",
           "move": "megahorn"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 609,
+        "description": 0
+      }
     }
   ]
 }

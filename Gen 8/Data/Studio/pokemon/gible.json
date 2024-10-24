@@ -293,7 +293,11 @@
           "klass": "TechLearnableMove",
           "move": "stone_edge"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 339,
+        "description": 0
+      }
     }
   ]
 }

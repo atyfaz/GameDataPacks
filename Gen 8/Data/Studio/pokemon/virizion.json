@@ -309,7 +309,11 @@
           "klass": "TechLearnableMove",
           "move": "work_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1010,
+        "description": 0
+      }
     }
   ]
 }

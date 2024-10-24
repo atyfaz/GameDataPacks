@@ -313,7 +313,11 @@
           "klass": "TechLearnableMove",
           "move": "body_press"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1245,
+        "description": 0
+      }
     }
   ]
 }

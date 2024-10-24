@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1362,
+        "description": 0
+      },
       "height": 2.5,
       "weight": 60.2,
       "type1": "dark",
@@ -36,8 +40,8 @@
       "babyForm": 0,
       "itemHeld": [],
       "abilities": [
-        "corrosion",
         "poison_point",
+        "swift_swim",
         "intimidate"
       ],
       "frontOffsetY": 0,

@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1192,
+        "description": 0
+      },
       "height": 1.1,
       "weight": 7.7,
       "type1": "psychic",
@@ -351,6 +355,10 @@
     },
     {
       "form": 1,
+      "formTextId": {
+        "name": 1193,
+        "description": 0
+      },
       "height": 2.4,
       "weight": 809.1,
       "type1": "psychic",
@@ -391,9 +399,9 @@
         }
       ],
       "abilities": [
-        "as_one",
-        "as_one",
-        "as_one"
+        "as_one_glastrier",
+        "as_one_glastrier",
+        "as_one_glastrier"
       ],
       "frontOffsetY": 0,
       "resources": {
@@ -888,6 +896,10 @@
     },
     {
       "form": 2,
+      "formTextId": {
+        "name": 1194,
+        "description": 0
+      },
       "height": 2.4,
       "weight": 53.6,
       "type1": "psychic",
@@ -928,9 +940,9 @@
         }
       ],
       "abilities": [
-        "as_one",
-        "as_one",
-        "as_one"
+        "as_one_spectrier",
+        "as_one_spectrier",
+        "as_one_spectrier"
       ],
       "frontOffsetY": 0,
       "resources": {

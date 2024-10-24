@@ -378,7 +378,11 @@
           "klass": "TechLearnableMove",
           "move": "dig"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1238,
+        "description": 0
+      }
     }
   ]
 }

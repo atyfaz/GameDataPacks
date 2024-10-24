@@ -298,7 +298,11 @@
           "klass": "TechLearnableMove",
           "move": "icicle_spear"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 785,
+        "description": 0
+      }
     }
   ]
 }

@@ -294,7 +294,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "fury_cutter"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 460,
+        "description": 0
+      }
     }
   ]
 }

@@ -375,7 +375,11 @@
           "klass": "BreedLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 376,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -777,7 +781,11 @@
           "klass": "BreedLearnableMove",
           "move": "spite"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 377,
+        "description": 0
+      }
     }
   ]
 }

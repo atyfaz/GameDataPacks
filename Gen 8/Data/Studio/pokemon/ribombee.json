@@ -313,7 +313,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "pollen_puff"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 742,
+        "description": 0
+      }
     }
   ]
 }

@@ -310,7 +310,11 @@
           "klass": "BreedLearnableMove",
           "move": "quick_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 217,
+        "description": 0
+      }
     }
   ]
 }

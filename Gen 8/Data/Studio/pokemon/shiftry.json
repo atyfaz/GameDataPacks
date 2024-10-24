@@ -445,7 +445,11 @@
           "klass": "TechLearnableMove",
           "move": "heat_wave"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 805,
+        "description": 0
+      }
     }
   ]
 }

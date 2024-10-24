@@ -325,7 +325,11 @@
           "klass": "TechLearnableMove",
           "move": "heat_wave"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1047,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -707,7 +711,11 @@
           "klass": "TechLearnableMove",
           "move": "overheat"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1478,
+        "description": 0
+      }
     }
   ]
 }

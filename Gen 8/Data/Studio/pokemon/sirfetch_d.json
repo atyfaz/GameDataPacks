@@ -330,7 +330,11 @@
           "klass": "TutorLearnableMove",
           "move": "grassy_glide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1258,
+        "description": 0
+      }
     }
   ]
 }

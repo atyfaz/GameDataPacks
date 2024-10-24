@@ -431,7 +431,11 @@
           "klass": "TechLearnableMove",
           "move": "iron_tail"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 90,
+        "description": 0
+      }
     }
   ]
 }

@@ -335,6 +335,10 @@
           "move": "tickle"
         }
       ],
+      "formTextId": {
+        "name": 16,
+        "description": 0
+      },
       "resources": {
         "icon": "594",
         "iconShiny": "",

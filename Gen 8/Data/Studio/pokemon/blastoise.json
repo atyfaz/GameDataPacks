@@ -421,7 +421,11 @@
           "klass": "TechLearnableMove",
           "move": "outrage"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 86,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -798,7 +802,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 87,
+        "description": 0
+      }
     }
   ]
 }

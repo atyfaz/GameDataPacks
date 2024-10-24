@@ -241,7 +241,11 @@
           "klass": "TechLearnableMove",
           "move": "heat_crash"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1402,
+        "description": 0
+      }
     }
   ]
 }

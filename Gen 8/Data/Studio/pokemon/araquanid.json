@@ -279,7 +279,11 @@
           "klass": "BreedLearnableMove",
           "move": "sticky_web"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 25,
+        "description": 0
+      }
     }
   ]
 }

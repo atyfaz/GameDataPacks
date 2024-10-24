@@ -349,7 +349,11 @@
           "klass": "TechLearnableMove",
           "move": "hail"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 360,
+        "description": 0
+      }
     }
   ]
 }

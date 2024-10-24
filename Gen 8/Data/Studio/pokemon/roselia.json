@@ -322,7 +322,11 @@
           "klass": "TechLearnableMove",
           "move": "power_whip"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 746,
+        "description": 0
+      }
     }
   ]
 }

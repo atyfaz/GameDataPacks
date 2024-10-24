@@ -320,7 +320,11 @@
           "klass": "TechLearnableMove",
           "move": "dragon_pulse"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 57,
+        "description": 0
+      }
     }
   ]
 }

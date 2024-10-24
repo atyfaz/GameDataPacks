@@ -358,7 +358,11 @@
           "klass": "BreedLearnableMove",
           "move": "tail_whip"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 640,
+        "description": 0
+      }
     }
   ]
 }

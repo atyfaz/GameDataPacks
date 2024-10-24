@@ -358,7 +358,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "body_slam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 895,
+        "description": 0
+      }
     }
   ]
 }

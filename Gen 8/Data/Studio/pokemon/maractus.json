@@ -295,7 +295,11 @@
           "klass": "TechLearnableMove",
           "move": "throat_chop"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 535,
+        "description": 0
+      }
     }
   ]
 }

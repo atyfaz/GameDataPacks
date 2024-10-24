@@ -302,7 +302,11 @@
           "klass": "TechLearnableMove",
           "move": "drain_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 350,
+        "description": 0
+      }
     }
   ]
 }

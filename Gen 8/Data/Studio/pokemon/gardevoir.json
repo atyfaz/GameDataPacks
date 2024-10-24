@@ -449,7 +449,11 @@
           "klass": "TechLearnableMove",
           "move": "mystical_fire"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 325,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -876,7 +880,11 @@
           "klass": "TechLearnableMove",
           "move": "dazzling_gleam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 326,
+        "description": 0
+      }
     }
   ]
 }

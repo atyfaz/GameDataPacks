@@ -365,7 +365,11 @@
           "klass": "BreedLearnableMove",
           "move": "wide_guard"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 623,
+        "description": 0
+      }
     }
   ]
 }

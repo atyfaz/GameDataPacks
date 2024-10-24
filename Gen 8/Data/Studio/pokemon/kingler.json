@@ -336,7 +336,11 @@
           "klass": "TechLearnableMove",
           "move": "brutal_swing"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 449,
+        "description": 0
+      }
     }
   ]
 }

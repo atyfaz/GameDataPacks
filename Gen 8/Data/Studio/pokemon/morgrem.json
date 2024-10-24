@@ -293,7 +293,11 @@
           "klass": "TechLearnableMove",
           "move": "shadow_claw"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1341,
+        "description": 0
+      }
     }
   ]
 }

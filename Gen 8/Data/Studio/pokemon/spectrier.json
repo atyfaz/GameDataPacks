@@ -266,7 +266,11 @@
           "klass": "TechLearnableMove",
           "move": "foul_play"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1432,
+        "description": 0
+      }
     }
   ]
 }

@@ -331,7 +331,11 @@
           "klass": "TechLearnableMove",
           "move": "stored_power"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 853,
+        "description": 0
+      }
     }
   ]
 }

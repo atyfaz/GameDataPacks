@@ -278,7 +278,11 @@
           "klass": "TechLearnableMove",
           "move": "surf"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 801,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -555,7 +559,11 @@
           "klass": "TechLearnableMove",
           "move": "surf"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 802,
+        "description": 0
+      }
     }
   ]
 }

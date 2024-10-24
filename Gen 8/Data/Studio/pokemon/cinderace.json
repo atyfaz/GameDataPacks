@@ -358,7 +358,11 @@
           "klass": "TechLearnableMove",
           "move": "fire_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1207,
+        "description": 0
+      }
     }
   ]
 }

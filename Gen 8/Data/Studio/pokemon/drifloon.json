@@ -305,7 +305,11 @@
           "klass": "TechLearnableMove",
           "move": "ally_switch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 227,
+        "description": 0
+      }
     }
   ]
 }

@@ -302,7 +302,11 @@
           "klass": "TechLearnableMove",
           "move": "thunder"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 318,
+        "description": 0
+      }
     }
   ]
 }

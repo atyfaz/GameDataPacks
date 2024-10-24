@@ -332,7 +332,11 @@
           "klass": "TechLearnableMove",
           "move": "high_horsepower"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 681,
+        "description": 0
+      }
     }
   ]
 }

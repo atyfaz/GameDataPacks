@@ -331,7 +331,11 @@
           "klass": "TechLearnableMove",
           "move": "acrobatics"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 950,
+        "description": 0
+      }
     }
   ]
 }

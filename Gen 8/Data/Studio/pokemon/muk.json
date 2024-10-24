@@ -359,7 +359,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "venom_drench"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 596,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -749,7 +753,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "venom_drench"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 597,
+        "description": 0
+      }
     }
   ]
 }

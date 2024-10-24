@@ -125,6 +125,10 @@
         "characterShiny": "265s_0",
         "cry": "265cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 1068,
+        "description": 0
       }
     }
   ]

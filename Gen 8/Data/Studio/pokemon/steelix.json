@@ -432,7 +432,11 @@
           "klass": "TechLearnableMove",
           "move": "iron_tail"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 881,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -819,7 +823,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 882,
+        "description": 0
+      }
     }
   ]
 }

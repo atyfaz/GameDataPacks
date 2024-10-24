@@ -309,7 +309,11 @@
           "klass": "TechLearnableMove",
           "move": "surf"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1083,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -641,7 +645,11 @@
           "move": "double_edge",
           "level": 36
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1494,
+        "description": 0
+      }
     }
   ]
 }

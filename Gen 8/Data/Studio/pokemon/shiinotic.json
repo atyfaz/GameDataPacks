@@ -265,7 +265,11 @@
           "klass": "TechLearnableMove",
           "move": "rain_dance"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 806,
+        "description": 0
+      }
     }
   ]
 }

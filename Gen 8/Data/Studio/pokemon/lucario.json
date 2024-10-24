@@ -489,7 +489,11 @@
           "klass": "TechLearnableMove",
           "move": "stone_edge"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 499,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -893,7 +897,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 500,
+        "description": 0
+      }
     }
   ]
 }

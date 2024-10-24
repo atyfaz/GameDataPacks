@@ -426,7 +426,11 @@
           "klass": "BreedLearnableMove",
           "move": "thunder_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 548,
+        "description": 0
+      }
     }
   ]
 }

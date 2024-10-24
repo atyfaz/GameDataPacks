@@ -494,7 +494,11 @@
           "klass": "TechLearnableMove",
           "move": "fire_blast"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 957,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -956,7 +960,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 958,
+        "description": 0
+      }
     }
   ]
 }

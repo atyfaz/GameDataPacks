@@ -118,7 +118,11 @@
           "klass": "TutorLearnableMove",
           "move": "uproar"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 459,
+        "description": 0
+      }
     }
   ]
 }

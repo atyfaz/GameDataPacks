@@ -261,7 +261,11 @@
           "klass": "TechLearnableMove",
           "move": "work_up"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 392,
+        "description": 0
+      }
     }
   ]
 }

@@ -293,7 +293,11 @@
           "klass": "TechLearnableMove",
           "move": "hex"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 941,
+        "description": 0
+      }
     }
   ]
 }

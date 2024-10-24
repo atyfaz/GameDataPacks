@@ -304,7 +304,11 @@
           "klass": "BreedLearnableMove",
           "move": "tailwind"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 632,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -607,7 +611,11 @@
           "klass": "BreedLearnableMove",
           "move": "tailwind"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 633,
+        "description": 0
+      }
     },
     {
       "form": 2,
@@ -910,7 +918,11 @@
           "klass": "BreedLearnableMove",
           "move": "tailwind"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 634,
+        "description": 0
+      }
     },
     {
       "form": 3,
@@ -1213,7 +1225,11 @@
           "klass": "BreedLearnableMove",
           "move": "tailwind"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 635,
+        "description": 0
+      }
     }
   ]
 }

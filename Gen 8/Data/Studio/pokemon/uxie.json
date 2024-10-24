@@ -360,7 +360,11 @@
           "klass": "TechLearnableMove",
           "move": "grass_knot"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 993,
+        "description": 0
+      }
     }
   ]
 }

@@ -431,7 +431,11 @@
           "klass": "TechLearnableMove",
           "move": "brick_break"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 335,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -839,7 +843,11 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 336,
+        "description": 0
+      }
     }
   ]
 }

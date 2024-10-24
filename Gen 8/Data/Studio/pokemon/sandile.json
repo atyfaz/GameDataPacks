@@ -313,7 +313,11 @@
           "klass": "TechLearnableMove",
           "move": "sludge_bomb"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 763,
+        "description": 0
+      }
     }
   ]
 }

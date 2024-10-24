@@ -260,7 +260,11 @@
           "klass": "TechLearnableMove",
           "move": "seed_bomb"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1420,
+        "description": 0
+      }
     }
   ]
 }

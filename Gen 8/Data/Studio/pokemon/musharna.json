@@ -311,7 +311,11 @@
           "klass": "TechLearnableMove",
           "move": "psychic_terrain"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 601,
+        "description": 0
+      }
     }
   ]
 }

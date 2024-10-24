@@ -232,7 +232,11 @@
           "klass": "TechLearnableMove",
           "move": "air_slash"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 444,
+        "description": 0
+      }
     }
   ]
 }

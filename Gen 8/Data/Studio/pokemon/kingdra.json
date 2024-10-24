@@ -318,7 +318,11 @@
           "klass": "TechLearnableMove",
           "move": "brine"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 448,
+        "description": 0
+      }
     }
   ]
 }

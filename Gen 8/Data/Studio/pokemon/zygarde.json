@@ -317,7 +317,11 @@
           "klass": "TechLearnableMove",
           "move": "high_horsepower"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1088,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -370,7 +374,11 @@
         "cry": "718cry.ogg",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 1089,
+        "description": 0
+      }
     },
     {
       "form": 2,
@@ -423,7 +431,11 @@
         "cry": "718cry.ogg",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 1090,
+        "description": 0
+      }
     },
     {
       "form": 3,
@@ -476,7 +488,11 @@
         "cry": "718cry.ogg",
         "hasFemale": false
       },
-      "moveSet": []
+      "moveSet": [],
+      "formTextId": {
+        "name": 1091,
+        "description": 0
+      }
     }
   ]
 }

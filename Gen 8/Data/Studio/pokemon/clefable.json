@@ -482,7 +482,11 @@
           "klass": "TechLearnableMove",
           "move": "focus_blast"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 155,
+        "description": 0
+      }
     }
   ]
 }

@@ -282,7 +282,11 @@
           "klass": "TechLearnableMove",
           "move": "stealth_rock"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 900,
+        "description": 0
+      }
     }
   ]
 }

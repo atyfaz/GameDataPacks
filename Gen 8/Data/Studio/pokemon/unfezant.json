@@ -255,7 +255,11 @@
           "klass": "TechLearnableMove",
           "move": "brave_bird"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 963,
+        "description": 0
+      }
     }
   ]
 }

@@ -278,7 +278,11 @@
           "klass": "TechLearnableMove",
           "move": "dark_pulse"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1073,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -579,7 +583,11 @@
           "klass": "TechLearnableMove",
           "move": "earth_power"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1485,
+        "description": 0
+      }
     }
   ]
 }

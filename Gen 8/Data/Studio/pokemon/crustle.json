@@ -285,7 +285,11 @@
           "klass": "TechLearnableMove",
           "move": "heavy_slam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 179,
+        "description": 0
+      }
     }
   ]
 }

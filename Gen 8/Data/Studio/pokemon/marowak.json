@@ -370,7 +370,11 @@
           "klass": "TechLearnableMove",
           "move": "focus_blast"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 539,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -824,7 +828,11 @@
           "klass": "TechLearnableMove",
           "move": "rain_dance"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 540,
+        "description": 0
+      }
     }
   ]
 }

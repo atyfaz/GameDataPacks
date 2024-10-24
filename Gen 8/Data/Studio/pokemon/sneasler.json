@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1428,
+        "description": 0
+      },
       "height": 1.3,
       "weight": 43.2,
       "type1": "fighting",
@@ -36,9 +40,9 @@
       "babyForm": 0,
       "itemHeld": [],
       "abilities": [
-        "poison_touch",
-        "super_luck",
-        "unnerve"
+        "pressure",
+        "unburden",
+        "poison_touch"
       ],
       "frontOffsetY": 0,
       "resources": {

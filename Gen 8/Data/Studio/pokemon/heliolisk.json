@@ -346,7 +346,11 @@
           "klass": "TechLearnableMove",
           "move": "sunny_day"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 399,
+        "description": 0
+      }
     }
   ]
 }

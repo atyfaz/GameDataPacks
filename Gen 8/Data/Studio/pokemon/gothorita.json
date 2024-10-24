@@ -332,7 +332,11 @@
           "klass": "TechLearnableMove",
           "move": "grass_knot"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 365,
+        "description": 0
+      }
     }
   ]
 }

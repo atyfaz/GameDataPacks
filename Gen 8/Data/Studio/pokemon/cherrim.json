@@ -289,7 +289,11 @@
           "klass": "TechLearnableMove",
           "move": "play_rough"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 140,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -529,7 +533,11 @@
           "klass": "TechLearnableMove",
           "move": "play_rough"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 141,
+        "description": 0
+      }
     }
   ]
 }

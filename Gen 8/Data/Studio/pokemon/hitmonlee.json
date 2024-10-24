@@ -366,7 +366,11 @@
           "klass": "TechLearnableMove",
           "move": "mega_kick"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 407,
+        "description": 0
+      }
     }
   ]
 }

@@ -314,7 +314,11 @@
           "klass": "TechLearnableMove",
           "move": "aura_sphere"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 446,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -627,7 +631,11 @@
           "klass": "TechLearnableMove",
           "move": "aura_sphere"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 447,
+        "description": 0
+      }
     }
   ]
 }

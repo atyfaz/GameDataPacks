@@ -314,7 +314,11 @@
           "klass": "TechLearnableMove",
           "move": "overheat"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 256,
+        "description": 0
+      }
     }
   ]
 }

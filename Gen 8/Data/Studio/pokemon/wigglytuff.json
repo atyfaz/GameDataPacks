@@ -453,7 +453,11 @@
           "klass": "TechLearnableMove",
           "move": "magic_room"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1052,
+        "description": 0
+      }
     }
   ]
 }

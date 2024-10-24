@@ -318,7 +318,11 @@
           "klass": "TechLearnableMove",
           "move": "ally_switch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 703,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -635,7 +639,11 @@
           "klass": "BreedLearnableMove",
           "move": "curse"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 704,
+        "description": 0
+      }
     },
     {
       "form": 2,
@@ -952,7 +960,11 @@
           "klass": "BreedLearnableMove",
           "move": "curse"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 705,
+        "description": 0
+      }
     },
     {
       "form": 3,
@@ -1269,7 +1281,11 @@
           "klass": "BreedLearnableMove",
           "move": "curse"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 706,
+        "description": 0
+      }
     }
   ]
 }

@@ -326,6 +326,10 @@
         "characterShiny": "585s_0",
         "cry": "585cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 193,
+        "description": 0
       }
     },
     {
@@ -651,6 +655,10 @@
         "characterShiny": "585s_1",
         "cry": "585cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 194,
+        "description": 0
       }
     },
     {
@@ -976,6 +984,10 @@
         "characterShiny": "585s_2",
         "cry": "585cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 195,
+        "description": 0
       }
     },
     {
@@ -1301,6 +1313,10 @@
         "characterShiny": "585s_3",
         "cry": "585cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 196,
+        "description": 0
       }
     }
   ]

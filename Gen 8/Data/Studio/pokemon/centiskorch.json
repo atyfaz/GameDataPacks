@@ -286,7 +286,11 @@
           "klass": "TechLearnableMove",
           "move": "x_scissor"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1197,
+        "description": 0
+      }
     }
   ]
 }

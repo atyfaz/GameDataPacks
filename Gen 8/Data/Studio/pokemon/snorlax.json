@@ -491,7 +491,11 @@
           "klass": "TechLearnableMove",
           "move": "crunch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 856,
+        "description": 0
+      }
     }
   ]
 }

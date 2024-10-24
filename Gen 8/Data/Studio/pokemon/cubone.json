@@ -360,7 +360,11 @@
           "klass": "TechLearnableMove",
           "move": "thunder_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 182,
+        "description": 0
+      }
     }
   ]
 }

@@ -353,7 +353,11 @@
           "klass": "TutorLearnableMove",
           "move": "flip_turn"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1042,
+        "description": 0
+      }
     }
   ]
 }

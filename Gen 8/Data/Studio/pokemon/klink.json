@@ -228,7 +228,11 @@
           "klass": "TechLearnableMove",
           "move": "wild_charge"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 453,
+        "description": 0
+      }
     }
   ]
 }

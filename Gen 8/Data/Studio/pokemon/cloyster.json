@@ -338,7 +338,11 @@
           "klass": "TechLearnableMove",
           "move": "light_screen"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 158,
+        "description": 0
+      }
     }
   ]
 }

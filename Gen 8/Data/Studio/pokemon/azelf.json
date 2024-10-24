@@ -372,7 +372,11 @@
           "klass": "TechLearnableMove",
           "move": "taunt"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 58,
+        "description": 0
+      }
     }
   ]
 }

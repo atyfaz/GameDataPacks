@@ -335,7 +335,11 @@
           "klass": "TechLearnableMove",
           "move": "giga_drain"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 419,
+        "description": 0
+      }
     }
   ]
 }

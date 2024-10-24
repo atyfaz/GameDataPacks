@@ -428,7 +428,11 @@
           "klass": "BreedLearnableMove",
           "move": "tail_slap"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 13,
+        "description": 0
+      }
     }
   ]
 }

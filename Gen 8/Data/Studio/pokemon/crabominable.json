@@ -345,7 +345,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "ice_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 170,
+        "description": 0
+      }
     }
   ]
 }

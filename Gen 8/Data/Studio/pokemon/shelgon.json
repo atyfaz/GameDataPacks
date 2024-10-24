@@ -280,7 +280,11 @@
           "klass": "TechLearnableMove",
           "move": "zen_headbutt"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 799,
+        "description": 0
+      }
     }
   ]
 }

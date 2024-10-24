@@ -402,7 +402,11 @@
           "klass": "TechLearnableMove",
           "move": "whirlpool"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 266,
+        "description": 0
+      }
     }
   ]
 }

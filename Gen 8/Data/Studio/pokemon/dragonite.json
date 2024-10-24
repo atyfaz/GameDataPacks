@@ -443,7 +443,11 @@
           "klass": "TechLearnableMove",
           "move": "ice_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 222,
+        "description": 0
+      }
     }
   ]
 }

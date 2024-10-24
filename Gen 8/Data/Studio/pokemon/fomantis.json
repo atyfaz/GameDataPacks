@@ -267,7 +267,11 @@
           "klass": "BreedLearnableMove",
           "move": "worry_seed"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 296,
+        "description": 0
+      }
     }
   ]
 }

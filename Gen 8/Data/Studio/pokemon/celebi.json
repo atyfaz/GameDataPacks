@@ -360,7 +360,11 @@
           "klass": "TechLearnableMove",
           "move": "skill_swap"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 129,
+        "description": 0
+      }
     }
   ]
 }

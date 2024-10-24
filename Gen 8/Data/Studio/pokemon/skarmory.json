@@ -306,7 +306,11 @@
           "klass": "TechLearnableMove",
           "move": "icy_wind"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 836,
+        "description": 0
+      }
     }
   ]
 }

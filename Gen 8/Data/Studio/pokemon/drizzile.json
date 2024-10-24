@@ -266,7 +266,11 @@
           "klass": "TechLearnableMove",
           "move": "liquidation"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1241,
+        "description": 0
+      }
     }
   ]
 }

@@ -385,7 +385,11 @@
           "klass": "TechLearnableMove",
           "move": "swords_dance"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 438,
+        "description": 0
+      }
     }
   ]
 }

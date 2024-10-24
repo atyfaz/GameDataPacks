@@ -267,7 +267,11 @@
           "klass": "TechLearnableMove",
           "move": "hail"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1079,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -565,7 +569,11 @@
           "klass": "TechLearnableMove",
           "move": "stomping_tantrum"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1491,
+        "description": 0
+      }
     }
   ]
 }

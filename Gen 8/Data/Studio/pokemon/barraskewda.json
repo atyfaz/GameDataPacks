@@ -275,7 +275,11 @@
           "klass": "TechLearnableMove",
           "move": "scary_face"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1177,
+        "description": 0
+      }
     }
   ]
 }

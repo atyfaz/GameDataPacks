@@ -350,7 +350,11 @@
           "klass": "TechLearnableMove",
           "move": "power_whip"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 366,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -699,7 +703,11 @@
           "klass": "BreedLearnableMove",
           "move": "curse"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 367,
+        "description": 0
+      }
     },
     {
       "form": 2,
@@ -1048,7 +1056,11 @@
           "klass": "BreedLearnableMove",
           "move": "curse"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 368,
+        "description": 0
+      }
     },
     {
       "form": 3,
@@ -1397,7 +1409,11 @@
           "klass": "BreedLearnableMove",
           "move": "curse"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 369,
+        "description": 0
+      }
     }
   ]
 }

@@ -386,7 +386,11 @@
           "klass": "TechLearnableMove",
           "move": "hyper_beam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 814,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -762,7 +766,11 @@
           "klass": "TechLearnableMove",
           "move": "hyper_beam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 815,
+        "description": 0
+      }
     },
     {
       "form": 2,
@@ -1138,7 +1146,11 @@
           "klass": "TechLearnableMove",
           "move": "hyper_beam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 816,
+        "description": 0
+      }
     },
     {
       "form": 3,
@@ -1514,7 +1526,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "multi_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 817,
+        "description": 0
+      }
     },
     {
       "form": 4,
@@ -1890,7 +1906,11 @@
           "klass": "TechLearnableMove",
           "move": "hyper_beam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 818,
+        "description": 0
+      }
     },
     {
       "form": 5,
@@ -2266,7 +2286,11 @@
           "klass": "TechLearnableMove",
           "move": "hyper_beam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 819,
+        "description": 0
+      }
     },
     {
       "form": 6,
@@ -2642,7 +2666,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "multi_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 820,
+        "description": 0
+      }
     },
     {
       "form": 7,
@@ -3018,7 +3046,11 @@
           "klass": "TechLearnableMove",
           "move": "hyper_beam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 821,
+        "description": 0
+      }
     },
     {
       "form": 8,
@@ -3394,7 +3426,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "multi_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 822,
+        "description": 0
+      }
     },
     {
       "form": 9,
@@ -3770,7 +3806,11 @@
           "klass": "TechLearnableMove",
           "move": "hyper_beam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 823,
+        "description": 0
+      }
     },
     {
       "form": 10,
@@ -4146,7 +4186,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "multi_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 824,
+        "description": 0
+      }
     },
     {
       "form": 11,
@@ -4522,7 +4566,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "multi_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 825,
+        "description": 0
+      }
     },
     {
       "form": 12,
@@ -4902,7 +4950,11 @@
           "klass": "TechLearnableMove",
           "move": "hyper_beam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 826,
+        "description": 0
+      }
     },
     {
       "form": 13,
@@ -5278,7 +5330,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "multi_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 827,
+        "description": 0
+      }
     },
     {
       "form": 14,
@@ -5654,7 +5710,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "multi_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 828,
+        "description": 0
+      }
     },
     {
       "form": 15,
@@ -6030,7 +6090,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "multi_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 829,
+        "description": 0
+      }
     },
     {
       "form": 16,
@@ -6410,7 +6474,11 @@
           "klass": "TechLearnableMove",
           "move": "hyper_beam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 830,
+        "description": 0
+      }
     },
     {
       "form": 17,
@@ -6786,7 +6854,11 @@
           "klass": "TechLearnableMove",
           "move": "hyper_beam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 831,
+        "description": 0
+      }
     },
     {
       "form": 18,
@@ -7162,7 +7234,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "multi_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 832,
+        "description": 0
+      }
     }
   ]
 }

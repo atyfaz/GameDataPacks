@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 1319,
+        "description": 0
+      },
       "height": 1.5,
       "weight": 0.3,
       "type1": "bug",
@@ -37,8 +41,8 @@
       "itemHeld": [],
       "abilities": [
         "swarm",
-        "sand_stream",
-        "sand_force"
+        "sheer_force",
+        "sharpness"
       ],
       "frontOffsetY": 0,
       "resources": {

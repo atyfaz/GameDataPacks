@@ -388,7 +388,11 @@
           "klass": "TechLearnableMove",
           "move": "leaf_blade"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 480,
+        "description": 0
+      }
     }
   ]
 }

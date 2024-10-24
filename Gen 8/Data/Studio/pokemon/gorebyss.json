@@ -279,6 +279,10 @@
         "characterShiny": "368s_0",
         "cry": "368cry.ogg",
         "hasFemale": false
+      },
+      "formTextId": {
+        "name": 362,
+        "description": 0
       }
     }
   ]
