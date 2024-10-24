@@ -50,6 +50,19 @@
         "sand_rush"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "028",
+        "iconShiny": "",
+        "front": "028",
+        "frontShiny": "028",
+        "back": "028",
+        "backShiny": "028",
+        "footprint": "028",
+        "character": "028_0",
+        "characterShiny": "028s_0",
+        "cry": "028cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -328,18 +341,9 @@
           "move": "crush_claw"
         }
       ],
-      "resources": {
-        "icon": "028",
-        "iconShiny": "",
-        "front": "028",
-        "frontShiny": "028",
-        "back": "028",
-        "backShiny": "028",
-        "footprint": "028",
-        "character": "028_0",
-        "characterShiny": "028s_0",
-        "cry": "028cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 747,
+        "description": 0
       }
     },
     {
@@ -389,6 +393,19 @@
         "slush_rush"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "028_01",
+        "iconShiny": "",
+        "front": "028_01",
+        "frontShiny": "028_01",
+        "back": "028_01",
+        "backShiny": "028_01",
+        "footprint": "028",
+        "character": "",
+        "characterShiny": "",
+        "cry": "028cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -634,18 +651,9 @@
           "move": "icicle_spear"
         }
       ],
-      "resources": {
-        "icon": "028_01",
-        "iconShiny": "",
-        "front": "028_01",
-        "frontShiny": "028_01",
-        "back": "028_01",
-        "backShiny": "028_01",
-        "footprint": "028",
-        "character": "",
-        "characterShiny": "",
-        "cry": "028cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 748,
+        "description": 163
       }
     }
   ]

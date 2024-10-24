@@ -50,6 +50,19 @@
         "vital_spirit"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "467",
+        "iconShiny": "",
+        "front": "467",
+        "frontShiny": "467",
+        "back": "467",
+        "backShiny": "467",
+        "footprint": "467",
+        "character": "467_0",
+        "characterShiny": "467s_0",
+        "cry": "467cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -330,18 +343,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "467",
-        "iconShiny": "",
-        "front": "467",
-        "frontShiny": "467",
-        "back": "467",
-        "backShiny": "467",
-        "footprint": "467",
-        "character": "467_0",
-        "characterShiny": "467s_0",
-        "cry": "467cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 511,
+        "description": 0
       }
     }
   ]

@@ -61,6 +61,19 @@
         "hydration"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "580",
+        "iconShiny": "",
+        "front": "580",
+        "frontShiny": "580",
+        "back": "580",
+        "backShiny": "580",
+        "footprint": "580",
+        "character": "580_0",
+        "characterShiny": "580s_0",
+        "cry": "580cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -298,18 +311,9 @@
           "move": "steel_wing"
         }
       ],
-      "resources": {
-        "icon": "580",
-        "iconShiny": "",
-        "front": "580",
-        "frontShiny": "580",
-        "back": "580",
-        "backShiny": "580",
-        "footprint": "580",
-        "character": "580_0",
-        "characterShiny": "580s_0",
-        "cry": "580cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 227,
+        "description": 0
       }
     }
   ]

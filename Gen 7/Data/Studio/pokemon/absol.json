@@ -504,7 +504,11 @@
           "klass": "BreedLearnableMove",
           "move": "zen_headbutt"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 3,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -1105,7 +1109,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 4,
+        "description": 2
+      }
     }
   ]
 }

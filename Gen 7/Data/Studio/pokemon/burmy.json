@@ -79,6 +79,19 @@
         "overcoat"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "412",
+        "iconShiny": "",
+        "front": "412",
+        "frontShiny": "412",
+        "back": "412",
+        "backShiny": "412",
+        "footprint": "412",
+        "character": "412_0",
+        "characterShiny": "412s_0",
+        "cry": "412cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -121,18 +134,9 @@
           "move": "protect"
         }
       ],
-      "resources": {
-        "icon": "412",
-        "iconShiny": "",
-        "front": "412",
-        "frontShiny": "412",
-        "back": "412",
-        "backShiny": "412",
-        "footprint": "412",
-        "character": "412_0",
-        "characterShiny": "412s_0",
-        "cry": "412cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 107,
+        "description": 0
       }
     },
     {
@@ -211,6 +215,19 @@
         "overcoat"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "412_01",
+        "iconShiny": "",
+        "front": "412_01",
+        "frontShiny": "412_01",
+        "back": "412_01",
+        "backShiny": "412_01",
+        "footprint": "412",
+        "character": "412_1",
+        "characterShiny": "412s_1",
+        "cry": "412cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -253,18 +270,9 @@
           "move": "protect"
         }
       ],
-      "resources": {
-        "icon": "412_01",
-        "iconShiny": "",
-        "front": "412_01",
-        "frontShiny": "412_01",
-        "back": "412_01",
-        "backShiny": "412_01",
-        "footprint": "412",
-        "character": "412_1",
-        "characterShiny": "412s_1",
-        "cry": "412cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 108,
+        "description": 32
       }
     },
     {
@@ -343,6 +351,19 @@
         "overcoat"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "412_02",
+        "iconShiny": "",
+        "front": "412_02",
+        "frontShiny": "412_02",
+        "back": "412_02",
+        "backShiny": "412_02",
+        "footprint": "412",
+        "character": "412_2",
+        "characterShiny": "412s_2",
+        "cry": "412cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -385,18 +406,9 @@
           "move": "protect"
         }
       ],
-      "resources": {
-        "icon": "412_02",
-        "iconShiny": "",
-        "front": "412_02",
-        "frontShiny": "412_02",
-        "back": "412_02",
-        "backShiny": "412_02",
-        "footprint": "412",
-        "character": "412_2",
-        "characterShiny": "412s_2",
-        "cry": "412cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 109,
+        "description": 33
       }
     }
   ]

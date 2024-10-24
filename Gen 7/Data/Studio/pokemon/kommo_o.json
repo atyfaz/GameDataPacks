@@ -446,7 +446,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "clanging_scales"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 447,
+        "description": 0
+      }
     }
   ]
 }

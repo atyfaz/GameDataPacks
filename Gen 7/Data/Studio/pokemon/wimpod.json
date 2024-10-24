@@ -193,7 +193,11 @@
           "klass": "BreedLearnableMove",
           "move": "wide_guard"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1024,
+        "description": 0
+      }
     }
   ]
 }

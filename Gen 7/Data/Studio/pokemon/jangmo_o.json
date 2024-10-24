@@ -341,7 +341,11 @@
           "klass": "BreedLearnableMove",
           "move": "reversal"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 419,
+        "description": 0
+      }
     }
   ]
 }

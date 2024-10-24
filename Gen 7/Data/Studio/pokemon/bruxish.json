@@ -352,7 +352,11 @@
           "klass": "BreedLearnableMove",
           "move": "water_pulse"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 101,
+        "description": 0
+      }
     }
   ]
 }

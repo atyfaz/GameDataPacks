@@ -116,7 +116,7 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "feint_attack",
+          "move": "feint",
           "level": 11
         },
         {
@@ -393,7 +393,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 531,
+        "description": 0
+      }
     }
   ]
 }

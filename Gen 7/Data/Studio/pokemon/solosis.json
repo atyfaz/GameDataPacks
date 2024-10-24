@@ -61,6 +61,19 @@
         "regenerator"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "577",
+        "iconShiny": "",
+        "front": "577",
+        "frontShiny": "577",
+        "back": "577",
+        "backShiny": "577",
+        "footprint": "577",
+        "character": "577_0",
+        "characterShiny": "577s_0",
+        "cry": "577cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -188,7 +201,7 @@
         },
         {
           "klass": "TutorLearnableMove",
-          "move": "psychic"
+          "move": "zen_headbutt"
         },
         {
           "klass": "TutorLearnableMove",
@@ -387,18 +400,9 @@
           "move": "trick"
         }
       ],
-      "resources": {
-        "icon": "577",
-        "iconShiny": "",
-        "front": "577",
-        "frontShiny": "577",
-        "back": "577",
-        "backShiny": "577",
-        "footprint": "577",
-        "character": "577_0",
-        "characterShiny": "577s_0",
-        "cry": "577cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 841,
+        "description": 0
       }
     }
   ]

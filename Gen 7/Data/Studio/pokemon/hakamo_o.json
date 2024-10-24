@@ -375,7 +375,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "sky_uppercut"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 381,
+        "description": 0
+      }
     }
   ]
 }

@@ -347,7 +347,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "sparkling_aria"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 681,
+        "description": 0
+      }
     }
   ]
 }

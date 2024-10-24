@@ -121,7 +121,7 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "__undef__",
+          "move": "mind_blown",
           "level": 59
         },
         {
@@ -308,7 +308,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 84,
+        "description": 0
+      }
     }
   ]
 }

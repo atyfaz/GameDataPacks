@@ -363,7 +363,11 @@
           "klass": "TechLearnableMove",
           "move": "dark_pulse"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 378,
+        "description": 0
+      }
     }
   ]
 }

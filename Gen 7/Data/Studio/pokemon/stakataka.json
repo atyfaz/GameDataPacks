@@ -313,7 +313,11 @@
           "klass": "TechLearnableMove",
           "move": "trick_room"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 852,
+        "description": 0
+      }
     }
   ]
 }

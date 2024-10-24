@@ -337,7 +337,11 @@
           "klass": "BreedLearnableMove",
           "move": "ominous_wind"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 185,
+        "description": 0
+      }
     }
   ]
 }

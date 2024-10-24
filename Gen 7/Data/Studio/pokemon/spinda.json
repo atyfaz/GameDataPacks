@@ -50,6 +50,19 @@
         "contrary"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "327",
+        "iconShiny": "",
+        "front": "327",
+        "frontShiny": "327",
+        "back": "327",
+        "backShiny": "327",
+        "footprint": "327",
+        "character": "327_0",
+        "characterShiny": "327s_0",
+        "cry": "327cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -350,7 +363,7 @@
         },
         {
           "klass": "BreedLearnableMove",
-          "move": "guard_swap"
+          "move": "guard_split"
         },
         {
           "klass": "BreedLearnableMove",
@@ -393,18 +406,9 @@
           "move": "wish"
         }
       ],
-      "resources": {
-        "icon": "327",
-        "iconShiny": "",
-        "front": "327",
-        "frontShiny": "327",
-        "back": "327",
-        "backShiny": "327",
-        "footprint": "327",
-        "character": "327_0",
-        "characterShiny": "327s_0",
-        "cry": "327cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 847,
+        "description": 0
       }
     }
   ]

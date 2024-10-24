@@ -42,7 +42,7 @@
     }
   ],
   "moveStatus": [],
-  "effectChance": 20,
+  "effectChance": 10,
   "isSlicingAttack": false,
   "isWind": false
 }

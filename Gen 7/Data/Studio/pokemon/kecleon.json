@@ -50,6 +50,19 @@
         "protean"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "352",
+        "iconShiny": "",
+        "front": "352",
+        "frontShiny": "352",
+        "back": "352",
+        "backShiny": "352",
+        "footprint": "352",
+        "character": "352_0",
+        "characterShiny": "352s_0",
+        "cry": "352cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -443,18 +456,9 @@
           "move": "trick"
         }
       ],
-      "resources": {
-        "icon": "352",
-        "iconShiny": "",
-        "front": "352",
-        "frontShiny": "352",
-        "back": "352",
-        "backShiny": "352",
-        "footprint": "352",
-        "character": "352_0",
-        "characterShiny": "352s_0",
-        "cry": "352cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 435,
+        "description": 0
       }
     }
   ]

@@ -409,7 +409,11 @@
           "klass": "BreedLearnableMove",
           "move": "wonder_room"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 575,
+        "description": 0
+      }
     }
   ]
 }

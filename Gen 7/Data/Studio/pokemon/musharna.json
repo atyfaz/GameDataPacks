@@ -50,6 +50,19 @@
         "telepathy"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "518",
+        "iconShiny": "",
+        "front": "518",
+        "frontShiny": "518",
+        "back": "518",
+        "backShiny": "518",
+        "footprint": "518",
+        "character": "518_0",
+        "characterShiny": "518s_0",
+        "cry": "518cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -281,18 +294,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "518",
-        "iconShiny": "",
-        "front": "518",
-        "frontShiny": "518",
-        "back": "518",
-        "backShiny": "518",
-        "footprint": "518",
-        "character": "518_0",
-        "characterShiny": "518s_0",
-        "cry": "518cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 590,
+        "description": 0
       }
     }
   ]

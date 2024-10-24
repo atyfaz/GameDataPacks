@@ -360,7 +360,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "air_cutter"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 591,
+        "description": 0
+      }
     }
   ]
 }

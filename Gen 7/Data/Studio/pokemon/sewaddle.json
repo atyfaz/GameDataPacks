@@ -61,6 +61,19 @@
         "overcoat"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "540",
+        "iconShiny": "",
+        "front": "540",
+        "frontShiny": "540",
+        "back": "540",
+        "backShiny": "540",
+        "footprint": "540",
+        "character": "540_0",
+        "characterShiny": "540s_0",
+        "cry": "540cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -273,7 +286,7 @@
         },
         {
           "klass": "BreedLearnableMove",
-          "move": "whirlwind"
+          "move": "razor_wind"
         },
         {
           "klass": "BreedLearnableMove",
@@ -284,18 +297,9 @@
           "move": "silver_wind"
         }
       ],
-      "resources": {
-        "icon": "540",
-        "iconShiny": "",
-        "front": "540",
-        "frontShiny": "540",
-        "back": "540",
-        "backShiny": "540",
-        "footprint": "540",
-        "character": "540_0",
-        "characterShiny": "540s_0",
-        "cry": "540cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 774,
+        "description": 0
       }
     }
   ]

@@ -375,7 +375,11 @@
           "klass": "BreedLearnableMove",
           "move": "lucky_chant"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 160,
+        "description": 0
+      }
     }
   ]
 }

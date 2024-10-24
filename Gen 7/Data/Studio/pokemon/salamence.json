@@ -371,7 +371,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "fly"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 739,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -967,7 +971,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 740,
+        "description": 161
+      }
     }
   ]
 }

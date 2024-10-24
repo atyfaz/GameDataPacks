@@ -50,6 +50,19 @@
         "harvest"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "103",
+        "iconShiny": "",
+        "front": "103",
+        "frontShiny": "103",
+        "back": "103",
+        "backShiny": "103",
+        "footprint": "103",
+        "character": "103_0",
+        "characterShiny": "103s_0",
+        "cry": "103cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -281,18 +294,9 @@
           "move": "stomp"
         }
       ],
-      "resources": {
-        "icon": "103",
-        "iconShiny": "",
-        "front": "103",
-        "frontShiny": "103",
-        "back": "103",
-        "backShiny": "103",
-        "footprint": "103",
-        "character": "103_0",
-        "characterShiny": "103s_0",
-        "cry": "103cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 257,
+        "description": 0
       }
     },
     {
@@ -325,7 +329,7 @@
       ],
       "hatchSteps": 5120,
       "babyDbSymbol": "exeggcute",
-      "babyForm": 1,
+      "babyForm": 0,
       "itemHeld": [
         {
           "dbSymbol": "none",
@@ -342,6 +346,19 @@
         "harvest"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "103_01",
+        "iconShiny": "",
+        "front": "103_01",
+        "frontShiny": "103_01",
+        "back": "103_01",
+        "backShiny": "103_01",
+        "footprint": "103",
+        "character": "",
+        "characterShiny": "",
+        "cry": "103cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -621,18 +638,9 @@
           "move": "dragon_hammer"
         }
       ],
-      "resources": {
-        "icon": "103_01",
-        "iconShiny": "",
-        "front": "103_01",
-        "frontShiny": "103_01",
-        "back": "103_01",
-        "backShiny": "103_01",
-        "footprint": "103",
-        "character": "",
-        "characterShiny": "",
-        "cry": "103cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 258,
+        "description": 51
       }
     }
   ]

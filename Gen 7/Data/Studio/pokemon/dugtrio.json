@@ -50,6 +50,19 @@
         "sand_force"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "051",
+        "iconShiny": "",
+        "front": "051",
+        "frontShiny": "051",
+        "back": "051",
+        "backShiny": "051",
+        "footprint": "051",
+        "character": "051_0",
+        "characterShiny": "051s_0",
+        "cry": "051cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -283,24 +296,15 @@
           "move": "sand_tomb"
         }
       ],
-      "resources": {
-        "icon": "051",
-        "iconShiny": "",
-        "front": "051",
-        "frontShiny": "051",
-        "back": "051",
-        "backShiny": "051",
-        "footprint": "051",
-        "character": "051_0",
-        "characterShiny": "051s_0",
-        "cry": "051cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 228,
+        "description": 0
       }
     },
     {
       "form": 1,
       "height": 0.7,
-      "weight": 33.3,
+      "weight": 66.6,
       "type1": "ground",
       "type2": "steel",
       "baseHp": 35,
@@ -344,6 +348,19 @@
         "sand_force"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "051_01",
+        "iconShiny": "",
+        "front": "051_01",
+        "frontShiny": "051_01",
+        "back": "051_01",
+        "backShiny": "051_01",
+        "footprint": "051",
+        "character": "",
+        "characterShiny": "",
+        "cry": "051cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -593,18 +610,9 @@
           "move": "sand_tomb"
         }
       ],
-      "resources": {
-        "icon": "051_01",
-        "iconShiny": "",
-        "front": "051_01",
-        "frontShiny": "051_01",
-        "back": "051_01",
-        "backShiny": "051_01",
-        "footprint": "051",
-        "character": "",
-        "characterShiny": "",
-        "cry": "051cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 229,
+        "description": 50
       }
     }
   ]

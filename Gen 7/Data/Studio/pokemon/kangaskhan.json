@@ -60,6 +60,26 @@
         "inner_focus"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "115",
+        "iconF": "115",
+        "iconShiny": "",
+        "front": "115",
+        "frontF": "115f",
+        "frontShiny": "115",
+        "frontShinyF": "115",
+        "back": "115",
+        "backF": "115",
+        "backShiny": "115",
+        "backShinyF": "115",
+        "footprint": "115",
+        "character": "115_0",
+        "characterF": "115_0",
+        "characterShiny": "115s_0",
+        "characterShinyF": "115s_0",
+        "cry": "115cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -429,25 +449,9 @@
           "move": "double_edge"
         }
       ],
-      "resources": {
-        "icon": "115",
-        "iconF": "115",
-        "iconShiny": "",
-        "front": "115",
-        "frontF": "115f",
-        "frontShiny": "115",
-        "frontShinyF": "115",
-        "back": "115",
-        "backF": "115",
-        "backShiny": "115",
-        "backShinyF": "115",
-        "footprint": "115",
-        "character": "115_0",
-        "characterF": "115_0",
-        "characterShiny": "115s_0",
-        "characterShinyF": "115s_0",
-        "cry": "115cry.ogg",
-        "hasFemale": true
+      "formTextId": {
+        "name": 431,
+        "description": 0
       }
     },
     {
@@ -497,6 +501,24 @@
         "parental_bond"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "115_30",
+        "iconF": "115_30",
+        "iconShiny": "",
+        "front": "115_30",
+        "frontF": "115f",
+        "frontShiny": "115_30",
+        "frontShinyF": "115_30",
+        "back": "115",
+        "backF": "115",
+        "backShiny": "115",
+        "backShinyF": "115",
+        "footprint": "115",
+        "character": "",
+        "characterShiny": "",
+        "cry": "115cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -818,23 +840,9 @@
           "move": "counter"
         }
       ],
-      "resources": {
-        "icon": "115_30",
-        "iconF": "115_30",
-        "iconShiny": "",
-        "front": "115_30",
-        "frontF": "115f",
-        "frontShiny": "115_30",
-        "frontShinyF": "115_30",
-        "back": "115",
-        "backF": "115",
-        "backShiny": "115",
-        "backShinyF": "115",
-        "footprint": "115",
-        "character": "",
-        "characterShiny": "",
-        "cry": "115cry.ogg",
-        "hasFemale": true
+      "formTextId": {
+        "name": 432,
+        "description": 98
       }
     }
   ]

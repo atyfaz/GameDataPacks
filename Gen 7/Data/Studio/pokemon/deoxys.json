@@ -438,7 +438,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 197,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -859,7 +863,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 198,
+        "description": 45
+      }
     },
     {
       "form": 2,
@@ -1294,7 +1302,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 199,
+        "description": 46
+      }
     },
     {
       "form": 3,
@@ -1727,7 +1739,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 200,
+        "description": 47
+      }
     }
   ]
 }

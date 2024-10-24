@@ -414,7 +414,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "multi_attack"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 794,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -823,7 +827,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 795,
+        "description": 172
+      }
     },
     {
       "form": 2,
@@ -1232,7 +1240,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 796,
+        "description": 173
+      }
     },
     {
       "form": 3,
@@ -1641,7 +1653,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 797,
+        "description": 174
+      }
     },
     {
       "form": 4,
@@ -2050,7 +2066,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 798,
+        "description": 175
+      }
     },
     {
       "form": 5,
@@ -2459,7 +2479,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 799,
+        "description": 176
+      }
     },
     {
       "form": 6,
@@ -2868,7 +2892,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 800,
+        "description": 177
+      }
     },
     {
       "form": 7,
@@ -3277,7 +3305,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 801,
+        "description": 178
+      }
     },
     {
       "form": 8,
@@ -3686,7 +3718,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 802,
+        "description": 179
+      }
     },
     {
       "form": 9,
@@ -4095,7 +4131,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 803,
+        "description": 180
+      }
     },
     {
       "form": 10,
@@ -4504,7 +4544,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 804,
+        "description": 181
+      }
     },
     {
       "form": 11,
@@ -4913,7 +4957,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 805,
+        "description": 182
+      }
     },
     {
       "form": 12,
@@ -5322,7 +5370,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 806,
+        "description": 183
+      }
     },
     {
       "form": 13,
@@ -5731,7 +5783,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 807,
+        "description": 184
+      }
     },
     {
       "form": 14,
@@ -6140,7 +6196,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 808,
+        "description": 185
+      }
     },
     {
       "form": 15,
@@ -6549,7 +6609,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 809,
+        "description": 186
+      }
     },
     {
       "form": 16,
@@ -6958,7 +7022,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 810,
+        "description": 187
+      }
     },
     {
       "form": 17,
@@ -7367,7 +7435,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 811,
+        "description": 188
+      }
     },
     {
       "form": 18,
@@ -7776,7 +7848,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 812,
+        "description": 189
+      }
     }
   ]
 }

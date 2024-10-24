@@ -300,7 +300,11 @@
           "klass": "BreedLearnableMove",
           "move": "uproar"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 663,
+        "description": 0
+      }
     }
   ]
 }

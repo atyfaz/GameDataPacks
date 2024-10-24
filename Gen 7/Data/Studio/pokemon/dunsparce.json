@@ -50,6 +50,19 @@
         "rattled"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "206",
+        "iconShiny": "",
+        "front": "206",
+        "frontShiny": "206",
+        "back": "206",
+        "backShiny": "206",
+        "footprint": "206",
+        "character": "206_0",
+        "characterShiny": "206s_0",
+        "cry": "206cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -426,18 +439,9 @@
           "move": "trump_card"
         }
       ],
-      "resources": {
-        "icon": "206",
-        "iconShiny": "",
-        "front": "206",
-        "frontShiny": "206",
-        "back": "206",
-        "backShiny": "206",
-        "footprint": "206",
-        "character": "206_0",
-        "characterShiny": "206s_0",
-        "cry": "206cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 230,
+        "description": 0
       }
     }
   ]

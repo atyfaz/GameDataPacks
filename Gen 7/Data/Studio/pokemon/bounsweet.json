@@ -75,11 +75,11 @@
         "backShinyF": "761",
         "footprint": "",
         "character": "",
-        "characterShiny": "",
-        "cry": "761cry.ogg",
-        "hasFemale": true,
         "characterF": "761_0",
-        "characterShinyF": "761s_0"
+        "characterShiny": "",
+        "characterShinyF": "761s_0",
+        "cry": "761cry.ogg",
+        "hasFemale": true
       },
       "moveSet": [
         {
@@ -283,7 +283,11 @@
           "klass": "BreedLearnableMove",
           "move": "synthesis"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 94,
+        "description": 0
+      }
     }
   ]
 }

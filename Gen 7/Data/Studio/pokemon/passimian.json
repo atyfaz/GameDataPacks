@@ -387,7 +387,11 @@
           "klass": "BreedLearnableMove",
           "move": "vital_throw"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 636,
+        "description": 0
+      }
     }
   ]
 }

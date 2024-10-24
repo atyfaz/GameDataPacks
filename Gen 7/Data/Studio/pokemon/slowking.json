@@ -50,6 +50,19 @@
         "regenerator"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "199",
+        "iconShiny": "",
+        "front": "199",
+        "frontShiny": "199",
+        "back": "199",
+        "backShiny": "199",
+        "footprint": "199",
+        "character": "199_0",
+        "characterShiny": "199s_0",
+        "cry": "199cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -411,18 +424,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "199",
-        "iconShiny": "",
-        "front": "199",
-        "frontShiny": "199",
-        "back": "199",
-        "backShiny": "199",
-        "footprint": "199",
-        "character": "199_0",
-        "characterShiny": "199s_0",
-        "cry": "199cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 828,
+        "description": 0
       }
     }
   ]

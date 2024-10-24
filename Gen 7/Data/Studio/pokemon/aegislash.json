@@ -286,7 +286,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 6,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -571,7 +575,11 @@
           "klass": "TutorLearnableMove",
           "move": "magnet_rise"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 7,
+        "description": 3
+      }
     }
   ]
 }

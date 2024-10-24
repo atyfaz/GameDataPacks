@@ -515,7 +515,11 @@
           "klass": "BreedLearnableMove",
           "move": "yawn"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 52,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -1101,7 +1105,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 53,
+        "description": 26
+      }
     }
   ]
 }

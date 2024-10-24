@@ -412,7 +412,11 @@
           "klass": "BreedLearnableMove",
           "move": "wide_guard"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 8,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -437,7 +441,7 @@
       "baseExperience": 215,
       "baseLoyalty": 70,
       "catchRate": 45,
-      "femaleRate": 12,
+      "femaleRate": 12.5,
       "breedGroups": [
         4,
         4
@@ -993,7 +997,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 9,
+        "description": 4
+      }
     }
   ]
 }

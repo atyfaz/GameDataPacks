@@ -31,7 +31,7 @@
         8,
         8
       ],
-      "hatchSteps": 2560,
+      "hatchSteps": 5120,
       "babyDbSymbol": "croagunk",
       "babyForm": 0,
       "itemHeld": [
@@ -50,6 +50,23 @@
         "poison_touch"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "454",
+        "iconShiny": "",
+        "front": "454",
+        "frontF": "454f",
+        "frontShiny": "454",
+        "frontShinyF": "454f",
+        "back": "454",
+        "backF": "454f",
+        "backShiny": "454",
+        "backShinyF": "454f",
+        "footprint": "454",
+        "character": "454_0",
+        "characterShiny": "454s_0",
+        "cry": "454cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -382,22 +399,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "454",
-        "iconShiny": "",
-        "front": "454",
-        "frontF": "454f",
-        "frontShiny": "454",
-        "frontShinyF": "454f",
-        "back": "454",
-        "backF": "454f",
-        "backShiny": "454",
-        "backShinyF": "454f",
-        "footprint": "454",
-        "character": "454_0",
-        "characterShiny": "454s_0",
-        "cry": "454cry.ogg",
-        "hasFemale": true
+      "formTextId": {
+        "name": 914,
+        "description": 0
       }
     }
   ]

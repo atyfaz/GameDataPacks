@@ -35,9 +35,30 @@
   "isSoundAttack": false,
   "isUnfreeze": false,
   "battleEngineAimedTarget": "adjacent_pokemon",
-  "battleStageMod": [],
+  "battleStageMod": [
+    {
+      "battleStage": "ATK_STAGE",
+      "modificator": 2
+    },
+    {
+      "battleStage": "DFE_STAGE",
+      "modificator": 2
+    },
+    {
+      "battleStage": "SPD_STAGE",
+      "modificator": 2
+    },
+    {
+      "battleStage": "ATS_STAGE",
+      "modificator": 2
+    },
+    {
+      "battleStage": "DFS_STAGE",
+      "modificator": 2
+    }
+  ],
   "moveStatus": [],
-  "effectChance": 0,
+  "effectChance": 100,
   "isSlicingAttack": false,
   "isWind": false
 }

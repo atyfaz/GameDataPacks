@@ -61,6 +61,19 @@
         "frisk"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "355",
+        "iconShiny": "",
+        "front": "355",
+        "frontShiny": "355",
+        "back": "355",
+        "backShiny": "355",
+        "footprint": "355",
+        "character": "355_0",
+        "characterShiny": "355s_0",
+        "cry": "355cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -358,18 +371,9 @@
           "move": "skill_swap"
         }
       ],
-      "resources": {
-        "icon": "355",
-        "iconShiny": "",
-        "front": "355",
-        "frontShiny": "355",
-        "back": "355",
-        "backShiny": "355",
-        "footprint": "355",
-        "character": "355_0",
-        "characterShiny": "355s_0",
-        "cry": "355cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 235,
+        "description": 0
       }
     }
   ]

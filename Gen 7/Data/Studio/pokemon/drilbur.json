@@ -61,6 +61,19 @@
         "mold_breaker"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "529",
+        "iconShiny": "",
+        "front": "529",
+        "frontShiny": "529",
+        "back": "529",
+        "backShiny": "529",
+        "footprint": "529",
+        "character": "529_0",
+        "characterShiny": "529s_0",
+        "cry": "529cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -298,18 +311,9 @@
           "move": "submission"
         }
       ],
-      "resources": {
-        "icon": "529",
-        "iconShiny": "",
-        "front": "529",
-        "frontShiny": "529",
-        "back": "529",
-        "backShiny": "529",
-        "footprint": "529",
-        "character": "529_0",
-        "characterShiny": "529s_0",
-        "cry": "529cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 224,
+        "description": 0
       }
     }
   ]

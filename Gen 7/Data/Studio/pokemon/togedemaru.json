@@ -359,7 +359,11 @@
           "klass": "BreedLearnableMove",
           "move": "wish"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 901,
+        "description": 0
+      }
     }
   ]
 }

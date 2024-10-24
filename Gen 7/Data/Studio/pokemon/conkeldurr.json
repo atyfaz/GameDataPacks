@@ -50,6 +50,19 @@
         "iron_fist"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "534",
+        "iconShiny": "",
+        "front": "534",
+        "frontShiny": "534",
+        "back": "534",
+        "backShiny": "534",
+        "footprint": "534",
+        "character": "534_0",
+        "characterShiny": "534s_0",
+        "cry": "534cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -330,18 +343,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "534",
-        "iconShiny": "",
-        "front": "534",
-        "frontShiny": "534",
-        "back": "534",
-        "backShiny": "534",
-        "footprint": "534",
-        "character": "534_0",
-        "characterShiny": "534s_0",
-        "cry": "534cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 161,
+        "description": 0
       }
     }
   ]

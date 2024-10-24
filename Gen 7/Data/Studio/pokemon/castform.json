@@ -325,7 +325,11 @@
           "klass": "BreedLearnableMove",
           "move": "reflect_type"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 121,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -347,7 +351,7 @@
       "evDfs": 0,
       "evolutions": [],
       "experienceType": 1,
-      "baseExperience": 145,
+      "baseExperience": 147,
       "baseLoyalty": 70,
       "catchRate": 45,
       "femaleRate": 50,
@@ -881,7 +885,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 122,
+        "description": 35
+      }
     },
     {
       "form": 2,
@@ -912,7 +920,7 @@
         11
       ],
       "hatchSteps": 6400,
-      "babyDbSymbol": "__undef__",
+      "babyDbSymbol": "castform",
       "babyForm": 2,
       "itemHeld": [
         {
@@ -1437,7 +1445,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 123,
+        "description": 36
+      }
     },
     {
       "form": 3,
@@ -1468,7 +1480,7 @@
         11
       ],
       "hatchSteps": 6400,
-      "babyDbSymbol": "__undef__",
+      "babyDbSymbol": "castform",
       "babyForm": 3,
       "itemHeld": [
         {
@@ -1993,7 +2005,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 124,
+        "description": 37
+      }
     }
   ]
 }

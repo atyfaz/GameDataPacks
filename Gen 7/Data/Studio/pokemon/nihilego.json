@@ -346,8 +346,16 @@
         {
           "klass": "TechLearnableMove",
           "move": "confide"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "pain_split"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 603,
+        "description": 0
+      }
     }
   ]
 }

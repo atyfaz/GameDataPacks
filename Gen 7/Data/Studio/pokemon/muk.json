@@ -50,6 +50,19 @@
         "poison_touch"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "089",
+        "iconShiny": "",
+        "front": "089",
+        "frontShiny": "089",
+        "back": "089",
+        "backShiny": "089",
+        "footprint": "089",
+        "character": "089_0",
+        "characterShiny": "089s_0",
+        "cry": "089cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -347,18 +360,9 @@
           "move": "venom_drench"
         }
       ],
-      "resources": {
-        "icon": "089",
-        "iconShiny": "",
-        "front": "089",
-        "frontShiny": "089",
-        "back": "089",
-        "backShiny": "089",
-        "footprint": "089",
-        "character": "089_0",
-        "characterShiny": "089s_0",
-        "cry": "089cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 585,
+        "description": 0
       }
     },
     {
@@ -408,6 +412,19 @@
         "power_of_alchemy"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "089_01",
+        "iconShiny": "",
+        "front": "089_01",
+        "frontShiny": "089_01",
+        "back": "089_01",
+        "backShiny": "089_01",
+        "footprint": "089",
+        "character": "",
+        "characterShiny": "",
+        "cry": "089cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -737,18 +754,9 @@
           "move": "venom_drench"
         }
       ],
-      "resources": {
-        "icon": "089_01",
-        "iconShiny": "",
-        "front": "089_01",
-        "frontShiny": "089_01",
-        "back": "089_01",
-        "backShiny": "089_01",
-        "footprint": "089",
-        "character": "",
-        "characterShiny": "",
-        "cry": "089cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 586,
+        "description": 128
       }
     }
   ]

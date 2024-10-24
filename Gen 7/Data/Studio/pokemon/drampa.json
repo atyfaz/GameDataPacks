@@ -427,7 +427,11 @@
           "klass": "BreedLearnableMove",
           "move": "razor_wind"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 219,
+        "description": 0
+      }
     }
   ]
 }

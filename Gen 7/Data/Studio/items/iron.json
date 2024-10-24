@@ -3,7 +3,7 @@
   "dbSymbol": "iron",
   "icon": "047",
   "price": 10000,
-  "socket": 6,
+  "socket": 0,
   "position": 0,
   "isBattleUsable": false,
   "isMapUsable": true,
@@ -11,7 +11,7 @@
   "isHoldable": true,
   "flingPower": 30,
   "klass": "EVBoostItem",
-  "loyaltyMalus": 0,
+  "loyaltyMalus": -5,
   "count": 10,
   "stat": "DFE"
 }

@@ -50,6 +50,19 @@
         "sheer_force"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "160",
+        "iconShiny": "",
+        "front": "160",
+        "frontShiny": "160",
+        "back": "160",
+        "backShiny": "160",
+        "footprint": "160",
+        "character": "160_0",
+        "characterShiny": "160s_0",
+        "cry": "160cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -105,11 +118,6 @@
           "klass": "LevelLearnableMove",
           "move": "flail",
           "level": 24
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "agility",
-          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
@@ -368,18 +376,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "160",
-        "iconShiny": "",
-        "front": "160",
-        "frontShiny": "160",
-        "back": "160",
-        "backShiny": "160",
-        "footprint": "160",
-        "character": "160_0",
-        "characterShiny": "160s_0",
-        "cry": "160cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 264,
+        "description": 0
       }
     }
   ]

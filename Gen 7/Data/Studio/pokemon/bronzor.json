@@ -61,6 +61,19 @@
         "heavy_metal"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "436",
+        "iconShiny": "",
+        "front": "436",
+        "frontShiny": "436",
+        "back": "436",
+        "backShiny": "436",
+        "footprint": "436",
+        "character": "436_0",
+        "characterShiny": "436s_0",
+        "cry": "436cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -335,18 +348,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "436",
-        "iconShiny": "",
-        "front": "436",
-        "frontShiny": "436",
-        "back": "436",
-        "backShiny": "436",
-        "footprint": "436",
-        "character": "436_0",
-        "characterShiny": "436s_0",
-        "cry": "436cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 100,
+        "description": 0
       }
     }
   ]

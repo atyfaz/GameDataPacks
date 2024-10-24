@@ -50,6 +50,19 @@
         "poison_heal"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "472",
+        "iconShiny": "",
+        "front": "472",
+        "frontShiny": "472",
+        "back": "472",
+        "backShiny": "472",
+        "footprint": "472",
+        "character": "472_0",
+        "characterShiny": "472s_0",
+        "cry": "472cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -382,18 +395,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "472",
-        "iconShiny": "",
-        "front": "472",
-        "frontShiny": "472",
-        "back": "472",
-        "backShiny": "472",
-        "footprint": "472",
-        "character": "472_0",
-        "characterShiny": "472s_0",
-        "cry": "472cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 340,
+        "description": 0
       }
     }
   ]

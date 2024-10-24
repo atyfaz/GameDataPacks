@@ -395,7 +395,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "spirit_shackle"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 187,
+        "description": 0
+      }
     }
   ]
 }

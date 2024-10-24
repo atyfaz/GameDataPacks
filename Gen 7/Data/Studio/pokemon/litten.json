@@ -327,7 +327,11 @@
           "klass": "BreedLearnableMove",
           "move": "revenge"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 482,
+        "description": 0
+      }
     }
   ]
 }

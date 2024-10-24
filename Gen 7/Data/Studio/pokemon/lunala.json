@@ -385,7 +385,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "moongeist_beam"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 494,
+        "description": 0
+      }
     }
   ]
 }

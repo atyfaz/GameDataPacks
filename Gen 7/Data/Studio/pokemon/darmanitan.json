@@ -50,6 +50,19 @@
         "zen_mode"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "555",
+        "iconShiny": "",
+        "front": "555",
+        "frontShiny": "555",
+        "back": "555",
+        "backShiny": "555",
+        "footprint": "555",
+        "character": "555_0",
+        "characterShiny": "555s_0",
+        "cry": "555cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -135,11 +148,6 @@
           "klass": "LevelLearnableMove",
           "move": "flare_blitz",
           "level": 33
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "hammer_arm",
-          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
@@ -367,20 +375,15 @@
         {
           "klass": "TechLearnableMove",
           "move": "confide"
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "hammer_arm"
         }
       ],
-      "resources": {
-        "icon": "555",
-        "iconShiny": "",
-        "front": "555",
-        "frontShiny": "555",
-        "back": "555",
-        "backShiny": "555",
-        "footprint": "555",
-        "character": "555_0",
-        "characterShiny": "555s_0",
-        "cry": "555cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 183,
+        "description": 0
       }
     },
     {
@@ -430,6 +433,19 @@
         "zen_mode"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "555_01",
+        "iconShiny": "",
+        "front": "555_01",
+        "frontShiny": "555_01",
+        "back": "555_01",
+        "backShiny": "555_01",
+        "footprint": "555",
+        "character": "",
+        "characterShiny": "",
+        "cry": "555cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -749,18 +765,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "555_01",
-        "iconShiny": "",
-        "front": "555_01",
-        "frontShiny": "555_01",
-        "back": "555_01",
-        "backShiny": "555_01",
-        "footprint": "555",
-        "character": "",
-        "characterShiny": "",
-        "cry": "555cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 184,
+        "description": 41
       }
     }
   ]

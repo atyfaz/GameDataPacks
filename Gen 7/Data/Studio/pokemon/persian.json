@@ -50,6 +50,19 @@
         "unnerve"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "053",
+        "iconShiny": "",
+        "front": "053",
+        "frontShiny": "053",
+        "back": "053",
+        "backShiny": "053",
+        "footprint": "053",
+        "character": "053_0",
+        "characterShiny": "053s_0",
+        "cry": "053cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -360,18 +373,9 @@
           "move": "swift"
         }
       ],
-      "resources": {
-        "icon": "053",
-        "iconShiny": "",
-        "front": "053",
-        "frontShiny": "053",
-        "back": "053",
-        "backShiny": "053",
-        "footprint": "053",
-        "character": "053_0",
-        "characterShiny": "053s_0",
-        "cry": "053cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 640,
+        "description": 0
       }
     },
     {
@@ -421,6 +425,19 @@
         "rattled"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "053_01",
+        "iconShiny": "",
+        "front": "053_01",
+        "frontShiny": "053_01",
+        "back": "053_01",
+        "backShiny": "053_01",
+        "footprint": "053",
+        "character": "",
+        "characterShiny": "",
+        "cry": "053cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -749,18 +766,9 @@
           "move": "swift"
         }
       ],
-      "resources": {
-        "icon": "053_01",
-        "iconShiny": "",
-        "front": "053_01",
-        "frontShiny": "053_01",
-        "back": "053_01",
-        "backShiny": "053_01",
-        "footprint": "053",
-        "character": "",
-        "characterShiny": "",
-        "cry": "053cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 641,
+        "description": 136
       }
     }
   ]

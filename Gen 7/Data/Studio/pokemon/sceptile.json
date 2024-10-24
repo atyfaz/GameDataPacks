@@ -60,6 +60,19 @@
         "unburden"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "254",
+        "iconShiny": "",
+        "front": "254",
+        "frontShiny": "254",
+        "back": "254",
+        "backShiny": "254",
+        "footprint": "254",
+        "character": "254_0",
+        "characterShiny": "254s_0",
+        "cry": "254cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -399,18 +412,9 @@
           "move": "dual_chop"
         }
       ],
-      "resources": {
-        "icon": "254",
-        "iconShiny": "",
-        "front": "254",
-        "frontShiny": "254",
-        "back": "254",
-        "backShiny": "254",
-        "footprint": "254",
-        "character": "254_0",
-        "characterShiny": "254s_0",
-        "cry": "254cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 756,
+        "description": 0
       }
     },
     {
@@ -460,6 +464,19 @@
         "lightning_rod"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "254_30",
+        "iconShiny": "",
+        "front": "254_30",
+        "frontShiny": "254_30",
+        "back": "254_30",
+        "backShiny": "254_30",
+        "footprint": "254",
+        "character": "",
+        "characterShiny": "",
+        "cry": "254cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -995,18 +1012,9 @@
           "move": "dive"
         }
       ],
-      "resources": {
-        "icon": "254_30",
-        "iconShiny": "",
-        "front": "254_30",
-        "frontShiny": "254_30",
-        "back": "254_30",
-        "backShiny": "254_30",
-        "footprint": "254",
-        "character": "",
-        "characterShiny": "",
-        "cry": "254cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 757,
+        "description": 167
       }
     }
   ]

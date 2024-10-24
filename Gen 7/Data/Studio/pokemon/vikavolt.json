@@ -318,7 +318,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "thunderbolt"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 980,
+        "description": 0
+      }
     }
   ]
 }

@@ -389,7 +389,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "dragon_breath"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 16,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -995,7 +999,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 17,
+        "description": 7
+      }
     }
   ]
 }

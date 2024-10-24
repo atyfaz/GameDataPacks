@@ -298,7 +298,11 @@
           "klass": "BreedLearnableMove",
           "move": "weather_ball"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 290,
+        "description": 0
+      }
     }
   ]
 }

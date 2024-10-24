@@ -63,6 +63,19 @@
         "analytic"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "082",
+        "iconShiny": "",
+        "front": "082",
+        "frontShiny": "082",
+        "back": "082",
+        "backShiny": "082",
+        "footprint": "082",
+        "character": "082_0",
+        "characterShiny": "082s_0",
+        "cry": "082cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -92,6 +105,11 @@
         {
           "klass": "LevelLearnableMove",
           "move": "tri_attack",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "zap_cannon",
           "level": 1
         },
         {
@@ -331,18 +349,9 @@
           "move": "tri_attack"
         }
       ],
-      "resources": {
-        "icon": "082",
-        "iconShiny": "",
-        "front": "082",
-        "frontShiny": "082",
-        "back": "082",
-        "backShiny": "082",
-        "footprint": "082",
-        "character": "082_0",
-        "characterShiny": "082s_0",
-        "cry": "082cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 513,
+        "description": 0
       }
     }
   ]

@@ -50,6 +50,19 @@
         "infiltrator"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "189",
+        "iconShiny": "",
+        "front": "189",
+        "frontShiny": "189",
+        "back": "189",
+        "backShiny": "189",
+        "footprint": "189",
+        "character": "189_0",
+        "characterShiny": "189s_0",
+        "cry": "189cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -302,18 +315,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "189",
-        "iconShiny": "",
-        "front": "189",
-        "frontShiny": "189",
-        "back": "189",
-        "backShiny": "189",
-        "footprint": "189",
-        "character": "189_0",
-        "characterShiny": "189s_0",
-        "cry": "189cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 425,
+        "description": 0
       }
     }
   ]

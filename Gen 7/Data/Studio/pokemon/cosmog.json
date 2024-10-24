@@ -85,7 +85,11 @@
           "move": "teleport",
           "level": 23
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 165,
+        "description": 0
+      }
     }
   ]
 }

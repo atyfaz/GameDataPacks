@@ -515,7 +515,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 554,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -538,7 +542,7 @@
       "evolutions": [],
       "experienceType": 2,
       "baseExperience": 351,
-      "baseLoyalty": 1,
+      "baseLoyalty": 0,
       "catchRate": 3,
       "femaleRate": -1,
       "breedGroups": [
@@ -1096,7 +1100,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 555,
+        "description": 118
+      }
     },
     {
       "form": 31,
@@ -1119,7 +1127,7 @@
       "evolutions": [],
       "experienceType": 2,
       "baseExperience": 351,
-      "baseLoyalty": 1,
+      "baseLoyalty": 0,
       "catchRate": 3,
       "femaleRate": -1,
       "breedGroups": [
@@ -1677,7 +1685,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 556,
+        "description": 119
+      }
     }
   ]
 }

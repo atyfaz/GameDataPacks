@@ -466,7 +466,11 @@
           "klass": "BreedLearnableMove",
           "move": "tickle"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 534,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -1057,7 +1061,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 535,
+        "description": 112
+      }
     }
   ]
 }

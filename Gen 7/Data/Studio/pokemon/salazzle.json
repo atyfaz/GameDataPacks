@@ -64,11 +64,11 @@
         "backShinyF": "758",
         "footprint": "",
         "character": "",
-        "characterShiny": "",
-        "cry": "758cry.ogg",
-        "hasFemale": true,
         "characterF": "758_0",
-        "characterShinyF": "758s_0"
+        "characterShiny": "",
+        "characterShinyF": "758s_0",
+        "cry": "758cry.ogg",
+        "hasFemale": true
       },
       "moveSet": [
         {
@@ -356,7 +356,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "captivate"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 742,
+        "description": 0
+      }
     }
   ]
 }

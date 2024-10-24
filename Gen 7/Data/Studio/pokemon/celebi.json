@@ -15,12 +15,12 @@
       "baseSpd": 100,
       "baseAts": 100,
       "baseDfs": 100,
-      "evHp": 0,
+      "evHp": 3,
       "evAtk": 0,
       "evDfe": 0,
       "evSpd": 0,
       "evAts": 0,
-      "evDfs": 3,
+      "evDfs": 0,
       "evolutions": [],
       "experienceType": 2,
       "baseExperience": 270,
@@ -50,6 +50,19 @@
         "natural_cure"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "251",
+        "iconShiny": "",
+        "front": "251",
+        "frontShiny": "251",
+        "back": "251",
+        "backShiny": "251",
+        "footprint": "251",
+        "character": "251_0",
+        "characterShiny": "251s_0",
+        "cry": "251cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -370,18 +383,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "251",
-        "iconShiny": "",
-        "front": "251",
-        "frontShiny": "251",
-        "back": "251",
-        "backShiny": "251",
-        "footprint": "251",
-        "character": "251_0",
-        "characterShiny": "251s_0",
-        "cry": "251cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 126,
+        "description": 0
       }
     }
   ]

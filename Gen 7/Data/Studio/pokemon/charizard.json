@@ -69,6 +69,19 @@
         "solar_power"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "006",
+        "iconShiny": "",
+        "front": "006",
+        "frontShiny": "006",
+        "back": "006",
+        "backShiny": "006",
+        "footprint": "006",
+        "character": "006_0",
+        "characterShiny": "006s_0",
+        "cry": "006cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -400,18 +413,9 @@
           "move": "wing_attack"
         }
       ],
-      "resources": {
-        "icon": "006",
-        "iconShiny": "",
-        "front": "006",
-        "frontShiny": "006",
-        "back": "006",
-        "backShiny": "006",
-        "footprint": "006",
-        "character": "006_0",
-        "characterShiny": "006s_0",
-        "cry": "006cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 130,
+        "description": 0
       }
     },
     {
@@ -419,7 +423,7 @@
       "height": 1.7,
       "weight": 110.5,
       "type1": "fire",
-      "type2": "flying",
+      "type2": "dragon",
       "baseHp": 78,
       "baseAtk": 130,
       "baseDfe": 111,
@@ -461,6 +465,19 @@
         "tough_claws"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "006_30",
+        "iconShiny": "",
+        "front": "006_30",
+        "frontShiny": "006_30",
+        "back": "006_30",
+        "backShiny": "006",
+        "footprint": "006",
+        "character": "",
+        "characterShiny": "",
+        "cry": "006cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -825,18 +842,9 @@
           "move": "flame_charge"
         }
       ],
-      "resources": {
-        "icon": "006_30",
-        "iconShiny": "",
-        "front": "006_30",
-        "frontShiny": "006_30",
-        "back": "006_30",
-        "backShiny": "006",
-        "footprint": "006",
-        "character": "",
-        "characterShiny": "",
-        "cry": "006cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 131,
+        "description": 38
       }
     },
     {
@@ -886,6 +894,19 @@
         "drought"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "006_31",
+        "iconShiny": "",
+        "front": "006_31",
+        "frontShiny": "006_31",
+        "back": "006",
+        "backShiny": "006",
+        "footprint": "006",
+        "character": "",
+        "characterShiny": "",
+        "cry": "006cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -1250,18 +1271,9 @@
           "move": "flame_charge"
         }
       ],
-      "resources": {
-        "icon": "006_31",
-        "iconShiny": "",
-        "front": "006_31",
-        "frontShiny": "006_31",
-        "back": "006",
-        "backShiny": "006",
-        "footprint": "006",
-        "character": "",
-        "characterShiny": "",
-        "cry": "006cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 132,
+        "description": 39
       }
     }
   ]

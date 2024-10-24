@@ -329,7 +329,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "petal_blizzard"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 496,
+        "description": 0
+      }
     }
   ]
 }

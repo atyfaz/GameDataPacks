@@ -384,7 +384,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "first_impression"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 349,
+        "description": 0
+      }
     }
   ]
 }

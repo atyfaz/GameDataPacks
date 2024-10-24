@@ -305,7 +305,11 @@
           "klass": "BreedLearnableMove",
           "move": "stun_spore"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 579,
+        "description": 0
+      }
     }
   ]
 }

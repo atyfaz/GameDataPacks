@@ -37,7 +37,7 @@
       "baseExperience": 61,
       "baseLoyalty": 70,
       "catchRate": 180,
-      "femaleRate": 75,
+      "femaleRate": 25,
       "breedGroups": [
         8,
         8
@@ -61,6 +61,19 @@
         "steadfast"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "066",
+        "iconShiny": "",
+        "front": "066",
+        "frontShiny": "066",
+        "back": "066",
+        "backShiny": "066",
+        "footprint": "066",
+        "character": "066_0",
+        "characterShiny": "066s_0",
+        "cry": "066cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -384,18 +397,9 @@
           "move": "meditate"
         }
       ],
-      "resources": {
-        "icon": "066",
-        "iconShiny": "",
-        "front": "066",
-        "frontShiny": "066",
-        "back": "066",
-        "backShiny": "066",
-        "footprint": "066",
-        "character": "066_0",
-        "characterShiny": "066s_0",
-        "cry": "066cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 505,
+        "description": 0
       }
     }
   ]

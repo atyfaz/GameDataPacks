@@ -28,7 +28,7 @@
           "conditions": [
             {
               "type": "minLoyalty",
-              "value": 255
+              "value": 220
             }
           ]
         }
@@ -313,7 +313,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 927,
+        "description": 0
+      }
     }
   ]
 }

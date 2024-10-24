@@ -61,6 +61,19 @@
         "chlorophyll"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "420",
+        "iconShiny": "",
+        "front": "420",
+        "frontShiny": "420",
+        "back": "420",
+        "backShiny": "420",
+        "footprint": "420",
+        "character": "420_0",
+        "characterShiny": "420s_0",
+        "cry": "420cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -248,10 +261,6 @@
         },
         {
           "klass": "BreedLearnableMove",
-          "move": "fake_tears"
-        },
-        {
-          "klass": "BreedLearnableMove",
           "move": "grass_whistle"
         },
         {
@@ -299,18 +308,9 @@
           "move": "weather_ball"
         }
       ],
-      "resources": {
-        "icon": "420",
-        "iconShiny": "",
-        "front": "420",
-        "frontShiny": "420",
-        "back": "420",
-        "backShiny": "420",
-        "footprint": "420",
-        "character": "420_0",
-        "characterShiny": "420s_0",
-        "cry": "420cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 139,
+        "description": 0
       }
     }
   ]

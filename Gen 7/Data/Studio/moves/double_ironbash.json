@@ -1,6 +1,6 @@
 {
   "klass": "Move",
-  "id": 805,
+  "id": 742,
   "dbSymbol": "double_ironbash",
   "mapUse": 0,
   "battleEngineMethod": "s_2hits",
@@ -22,7 +22,7 @@
   "isEffectChance": false,
   "isGravity": false,
   "isHeal": false,
-  "isKingRockUtility": true,
+  "isKingRockUtility": false,
   "isMagicCoatAffected": false,
   "isMental": false,
   "isMirrorMove": true,

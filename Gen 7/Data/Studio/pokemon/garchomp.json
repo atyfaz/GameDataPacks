@@ -362,7 +362,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "crunch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 314,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -937,7 +941,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 315,
+        "description": 75
+      }
     }
   ]
 }

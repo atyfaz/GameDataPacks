@@ -50,6 +50,19 @@
         "illusion"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "571",
+        "iconShiny": "",
+        "front": "571",
+        "frontShiny": "571",
+        "back": "571",
+        "backShiny": "571",
+        "footprint": "571",
+        "character": "571_0",
+        "characterShiny": "571s_0",
+        "cry": "571cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -125,11 +138,6 @@
           "klass": "LevelLearnableMove",
           "move": "foul_play",
           "level": 29
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "night_slash",
-          "level": 30
         },
         {
           "klass": "LevelLearnableMove",
@@ -369,20 +377,15 @@
         {
           "klass": "TechLearnableMove",
           "move": "confide"
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "night_slash"
         }
       ],
-      "resources": {
-        "icon": "571",
-        "iconShiny": "",
-        "front": "571",
-        "frontShiny": "571",
-        "back": "571",
-        "backShiny": "571",
-        "footprint": "571",
-        "character": "571_0",
-        "characterShiny": "571s_0",
-        "cry": "571cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 1050,
+        "description": 0
       }
     }
   ]

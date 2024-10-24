@@ -333,7 +333,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "baneful_bunker"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 913,
+        "description": 0
+      }
     }
   ]
 }

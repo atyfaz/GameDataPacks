@@ -50,6 +50,23 @@
         "lightning_rod"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "026",
+        "iconShiny": "",
+        "front": "026",
+        "frontF": "026f",
+        "frontShiny": "026",
+        "frontShinyF": "026f",
+        "back": "026",
+        "backF": "026f",
+        "backShiny": "026",
+        "backShinyF": "026f",
+        "footprint": "026",
+        "character": "026_0",
+        "characterShiny": "026s_0",
+        "cry": "026cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -240,22 +257,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "026",
-        "iconShiny": "",
-        "front": "026",
-        "frontF": "026f",
-        "frontShiny": "026",
-        "frontShinyF": "026f",
-        "back": "026",
-        "backF": "026f",
-        "backShiny": "026",
-        "backShinyF": "026f",
-        "footprint": "026",
-        "character": "026_0",
-        "characterShiny": "026s_0",
-        "cry": "026cry.ogg",
-        "hasFemale": true
+      "formTextId": {
+        "name": 699,
+        "description": 0
       }
     },
     {
@@ -288,7 +292,7 @@
       ],
       "hatchSteps": 2560,
       "babyDbSymbol": "pichu",
-      "babyForm": 1,
+      "babyForm": 0,
       "itemHeld": [
         {
           "dbSymbol": "none",
@@ -305,6 +309,23 @@
         "surge_surfer"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "026_01",
+        "iconShiny": "",
+        "front": "026_01",
+        "frontF": "026f",
+        "frontShiny": "026_01",
+        "frontShinyF": "026f",
+        "back": "026_01",
+        "backF": "026f",
+        "backShiny": "026_01",
+        "backShinyF": "026f",
+        "footprint": "026",
+        "character": "",
+        "characterShiny": "",
+        "cry": "026cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -545,22 +566,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "026_01",
-        "iconShiny": "",
-        "front": "026_01",
-        "frontF": "026f",
-        "frontShiny": "026_01",
-        "frontShinyF": "026f",
-        "back": "026_01",
-        "backF": "026f",
-        "backShiny": "026_01",
-        "backShinyF": "026f",
-        "footprint": "026",
-        "character": "",
-        "characterShiny": "",
-        "cry": "026cry.ogg",
-        "hasFemale": true
+      "formTextId": {
+        "name": 700,
+        "description": 150
       }
     }
   ]

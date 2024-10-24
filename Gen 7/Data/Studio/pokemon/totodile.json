@@ -61,6 +61,19 @@
         "sheer_force"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "158",
+        "iconShiny": "",
+        "front": "158",
+        "frontShiny": "158",
+        "back": "158",
+        "backShiny": "158",
+        "footprint": "158",
+        "character": "158_0",
+        "characterShiny": "158s_0",
+        "cry": "158cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -371,18 +384,9 @@
           "move": "water_sport"
         }
       ],
-      "resources": {
-        "icon": "158",
-        "iconShiny": "",
-        "front": "158",
-        "frontShiny": "158",
-        "back": "158",
-        "backShiny": "158",
-        "footprint": "158",
-        "character": "158_0",
-        "characterShiny": "158s_0",
-        "cry": "158cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 911,
+        "description": 0
       }
     }
   ]

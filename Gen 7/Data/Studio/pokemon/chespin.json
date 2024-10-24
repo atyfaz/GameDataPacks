@@ -61,10 +61,23 @@
         "bulletproof"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "650",
+        "iconShiny": "",
+        "front": "650",
+        "frontShiny": "650",
+        "back": "650",
+        "backShiny": "650",
+        "footprint": "",
+        "character": "650_0",
+        "characterShiny": "650s_0",
+        "cry": "650cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
-          "move": "tackle",
+          "move": "vine_whip",
           "level": 1
         },
         {
@@ -405,18 +418,9 @@
           "move": "synthesis"
         }
       ],
-      "resources": {
-        "icon": "650",
-        "iconShiny": "",
-        "front": "650",
-        "frontShiny": "650",
-        "back": "650",
-        "backShiny": "650",
-        "footprint": "",
-        "character": "650_0",
-        "characterShiny": "650s_0",
-        "cry": "650cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 141,
+        "description": 0
       }
     }
   ]

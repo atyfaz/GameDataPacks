@@ -279,7 +279,11 @@
           "klass": "BreedLearnableMove",
           "move": "whirlpool"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1026,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -417,7 +421,11 @@
           "move": "hydro_pump",
           "level": 54
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1027,
+        "description": 244
+      }
     }
   ]
 }

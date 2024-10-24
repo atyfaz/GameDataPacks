@@ -9,7 +9,7 @@
   "accuracy": 0,
   "pp": 10,
   "category": "status",
-  "movecriticalRate": 0,
+  "movecriticalRate": 1,
   "priority": 0,
   "isAuthentic": false,
   "isBallistics": false,

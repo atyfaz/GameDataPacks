@@ -373,7 +373,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "sunsteel_strike"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 840,
+        "description": 0
+      }
     }
   ]
 }

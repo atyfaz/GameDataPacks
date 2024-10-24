@@ -50,6 +50,19 @@
         "drought"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "038",
+        "iconShiny": "",
+        "front": "038",
+        "frontShiny": "038",
+        "back": "038",
+        "backShiny": "038",
+        "footprint": "038",
+        "character": "038_0",
+        "characterShiny": "038s_0",
+        "cry": "038cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -250,18 +263,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "038",
-        "iconShiny": "",
-        "front": "038",
-        "frontShiny": "038",
-        "back": "038",
-        "backShiny": "038",
-        "footprint": "038",
-        "character": "038_0",
-        "characterShiny": "038s_0",
-        "cry": "038cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 605,
+        "description": 0
       }
     },
     {
@@ -311,6 +315,19 @@
         "snow_warning"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "038_01",
+        "iconShiny": "",
+        "front": "038_01",
+        "frontShiny": "038_01",
+        "back": "038_01",
+        "backShiny": "038_01",
+        "footprint": "038",
+        "character": "",
+        "characterShiny": "",
+        "cry": "038cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -528,18 +545,9 @@
           "move": "dazzling_gleam"
         }
       ],
-      "resources": {
-        "icon": "038_01",
-        "iconShiny": "",
-        "front": "038_01",
-        "frontShiny": "038_01",
-        "back": "038_01",
-        "backShiny": "038_01",
-        "footprint": "038",
-        "character": "",
-        "characterShiny": "",
-        "cry": "038cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 606,
+        "description": 132
       }
     }
   ]

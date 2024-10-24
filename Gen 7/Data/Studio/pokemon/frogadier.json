@@ -61,6 +61,19 @@
         "protean"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "657",
+        "iconShiny": "",
+        "front": "657",
+        "frontShiny": "657",
+        "back": "657",
+        "backShiny": "657",
+        "footprint": "",
+        "character": "657_0",
+        "characterShiny": "657s_0",
+        "cry": "657cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -314,18 +327,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "657",
-        "iconShiny": "",
-        "front": "657",
-        "frontShiny": "657",
-        "back": "657",
-        "backShiny": "657",
-        "footprint": "",
-        "character": "657_0",
-        "characterShiny": "657s_0",
-        "cry": "657cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 296,
+        "description": 0
       }
     }
   ]

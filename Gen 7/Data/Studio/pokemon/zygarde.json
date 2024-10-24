@@ -312,7 +312,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1054,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -525,7 +529,11 @@
           "klass": "TutorLearnableMove",
           "move": "stomping_tantrum"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1055,
+        "description": 247
+      }
     },
     {
       "form": 2,
@@ -836,7 +844,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1056,
+        "description": 248
+      }
     },
     {
       "form": 3,
@@ -1147,7 +1159,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 1057,
+        "description": 249
+      }
     }
   ]
 }

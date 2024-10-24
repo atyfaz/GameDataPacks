@@ -365,7 +365,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "hammer_arm"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 549,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -941,7 +945,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 550,
+        "description": 117
+      }
     }
   ]
 }

@@ -61,6 +61,19 @@
         "insomnia"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "710",
+        "iconShiny": "",
+        "front": "710",
+        "frontShiny": "710",
+        "back": "710",
+        "backShiny": "710",
+        "footprint": "",
+        "character": "710_0",
+        "characterShiny": "710s_0",
+        "cry": "710cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -350,18 +363,9 @@
           "move": "disable"
         }
       ],
-      "resources": {
-        "icon": "710",
-        "iconShiny": "",
-        "front": "710",
-        "frontShiny": "710",
-        "back": "710",
-        "backShiny": "710",
-        "footprint": "",
-        "character": "710_0",
-        "characterShiny": "710s_0",
-        "cry": "710cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 686,
+        "description": 0
       }
     },
     {
@@ -422,6 +426,19 @@
         "insomnia"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "710",
+        "iconShiny": "",
+        "front": "710_01",
+        "frontShiny": "710",
+        "back": "710",
+        "backShiny": "710",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "710cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -711,18 +728,9 @@
           "move": "disable"
         }
       ],
-      "resources": {
-        "icon": "710",
-        "iconShiny": "",
-        "front": "710_01",
-        "frontShiny": "710",
-        "back": "710",
-        "backShiny": "710",
-        "footprint": "",
-        "character": "",
-        "characterShiny": "",
-        "cry": "710cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 687,
+        "description": 147
       }
     },
     {
@@ -783,6 +791,19 @@
         "insomnia"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "710",
+        "iconShiny": "",
+        "front": "710_02",
+        "frontShiny": "710",
+        "back": "710",
+        "backShiny": "710",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "710cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -1072,18 +1093,9 @@
           "move": "disable"
         }
       ],
-      "resources": {
-        "icon": "710",
-        "iconShiny": "",
-        "front": "710_02",
-        "frontShiny": "710",
-        "back": "710",
-        "backShiny": "710",
-        "footprint": "",
-        "character": "",
-        "characterShiny": "",
-        "cry": "710cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 688,
+        "description": 148
       }
     },
     {
@@ -1144,6 +1156,19 @@
         "insomnia"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "710",
+        "iconShiny": "",
+        "front": "710_03",
+        "frontShiny": "710",
+        "back": "710",
+        "backShiny": "710",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "710cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -1433,18 +1458,9 @@
           "move": "disable"
         }
       ],
-      "resources": {
-        "icon": "710",
-        "iconShiny": "",
-        "front": "710_03",
-        "frontShiny": "710",
-        "back": "710",
-        "backShiny": "710",
-        "footprint": "",
-        "character": "",
-        "characterShiny": "",
-        "cry": "710cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 689,
+        "description": 149
       }
     }
   ]

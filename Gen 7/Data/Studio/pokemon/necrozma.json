@@ -399,7 +399,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 593,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -802,7 +806,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 594,
+        "description": 129
+      }
     },
     {
       "form": 2,
@@ -1205,7 +1213,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 595,
+        "description": 130
+      }
     },
     {
       "form": 30,
@@ -1358,7 +1370,11 @@
           "move": "prismatic_laser",
           "level": 73
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 596,
+        "description": 131
+      }
     }
   ]
 }

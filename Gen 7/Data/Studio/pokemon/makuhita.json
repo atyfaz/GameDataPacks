@@ -61,6 +61,19 @@
         "sheer_force"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "296",
+        "iconShiny": "",
+        "front": "296",
+        "frontShiny": "296",
+        "back": "296",
+        "backShiny": "296",
+        "footprint": "296",
+        "character": "296_0",
+        "characterShiny": "296s_0",
+        "cry": "296cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -146,58 +159,6 @@
           "klass": "LevelLearnableMove",
           "move": "heavy_slam",
           "level": 46
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "low_kick"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "helping_hand"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "role_play"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "focus_punch"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "thunder_punch"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "fire_punch"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "ice_punch"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "snore"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "knock_off"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "superpower"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "iron_head"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "throat_chop"
-        },
-        {
-          "klass": "TutorLearnableMove",
-          "move": "stomping_tantrum"
         },
         {
           "klass": "TechLearnableMove",
@@ -370,20 +331,51 @@
         {
           "klass": "BreedLearnableMove",
           "move": "wide_guard"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "fire_punch"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "focus_punch"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "helping_hand"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "ice_punch"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "knock_off"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "low_kick"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "role_play"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "snore"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "superpower"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "thunder_punch"
         }
       ],
-      "resources": {
-        "icon": "296",
-        "iconShiny": "",
-        "front": "296",
-        "frontShiny": "296",
-        "back": "296",
-        "backShiny": "296",
-        "footprint": "296",
-        "character": "296_0",
-        "characterShiny": "296s_0",
-        "cry": "296cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 515,
+        "description": 0
       }
     }
   ]

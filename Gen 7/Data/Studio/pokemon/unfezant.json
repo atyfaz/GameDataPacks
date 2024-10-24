@@ -25,7 +25,7 @@
       "experienceType": 3,
       "baseExperience": 220,
       "baseLoyalty": 70,
-      "catchRate": 50,
+      "catchRate": 45,
       "femaleRate": 50,
       "breedGroups": [
         4,
@@ -50,6 +50,25 @@
         "rivalry"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "521",
+        "iconShiny": "",
+        "front": "521",
+        "frontF": "521f",
+        "frontShiny": "521",
+        "frontShinyF": "521f",
+        "back": "521",
+        "backF": "521f",
+        "backShiny": "521",
+        "backShinyF": "521f",
+        "footprint": "521",
+        "character": "521_0",
+        "characterF": "521f_0",
+        "characterShiny": "521s_0",
+        "characterShinyF": "521fs_0",
+        "cry": "521cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -274,24 +293,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "521",
-        "iconShiny": "",
-        "front": "521",
-        "frontF": "521f",
-        "frontShiny": "521",
-        "frontShinyF": "521f",
-        "back": "521",
-        "backF": "521f",
-        "backShiny": "521",
-        "backShinyF": "521f",
-        "footprint": "521",
-        "character": "521_0",
-        "characterF": "521f_0",
-        "characterShiny": "521s_0",
-        "characterShinyF": "521fs_0",
-        "cry": "521cry.ogg",
-        "hasFemale": true
+      "formTextId": {
+        "name": 935,
+        "description": 0
       }
     }
   ]

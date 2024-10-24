@@ -281,7 +281,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "charge"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 133,
+        "description": 0
+      }
     }
   ]
 }

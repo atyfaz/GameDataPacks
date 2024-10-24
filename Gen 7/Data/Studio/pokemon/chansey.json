@@ -61,6 +61,26 @@
         "healer"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "113",
+        "iconF": "113",
+        "iconShiny": "",
+        "front": "113",
+        "frontF": "113f",
+        "frontShiny": "113",
+        "frontShinyF": "113",
+        "back": "113",
+        "backF": "113",
+        "backShiny": "113",
+        "backShinyF": "113",
+        "footprint": "113",
+        "character": "113_0",
+        "characterF": "113_0",
+        "characterShiny": "113s_0",
+        "characterShinyF": "113s_0",
+        "cry": "113cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -125,32 +145,32 @@
         {
           "klass": "LevelLearnableMove",
           "move": "fling",
-          "level": 34
+          "level": 35
         },
         {
           "klass": "LevelLearnableMove",
           "move": "heal_pulse",
-          "level": 38
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
           "move": "egg_bomb",
-          "level": 42
+          "level": 44
         },
         {
           "klass": "LevelLearnableMove",
           "move": "light_screen",
-          "level": 46
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "healing_wish",
           "level": 50
         },
         {
           "klass": "LevelLearnableMove",
           "move": "double_edge",
           "level": 54
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "healing_wish",
+          "level": 65
         },
         {
           "klass": "TutorLearnableMove",
@@ -493,25 +513,9 @@
           "move": "last_resort"
         }
       ],
-      "resources": {
-        "icon": "113",
-        "iconF": "113",
-        "iconShiny": "",
-        "front": "113",
-        "frontF": "113f",
-        "frontShiny": "113",
-        "frontShinyF": "113",
-        "back": "113",
-        "backF": "113",
-        "backShiny": "113",
-        "backShinyF": "113",
-        "footprint": "113",
-        "character": "113_0",
-        "characterF": "113_0",
-        "characterShiny": "113s_0",
-        "characterShinyF": "113s_0",
-        "cry": "113cry.ogg",
-        "hasFemale": true
+      "formTextId": {
+        "name": 129,
+        "description": 0
       }
     }
   ]

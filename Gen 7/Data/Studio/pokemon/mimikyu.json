@@ -174,7 +174,7 @@
         },
         {
           "klass": "TutorLearnableMove",
-          "move": "magic_coat"
+          "move": "magic_room"
         },
         {
           "klass": "TutorLearnableMove",
@@ -372,7 +372,11 @@
           "klass": "BreedLearnableMove",
           "move": "nightmare"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 563,
+        "description": 0
+      }
     },
     {
       "form": 1,
@@ -743,7 +747,11 @@
           "klass": "BreedLearnableMove",
           "move": "nightmare"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 564,
+        "description": 120
+      }
     }
   ]
 }

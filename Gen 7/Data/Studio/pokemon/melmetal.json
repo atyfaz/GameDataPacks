@@ -287,7 +287,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "thunder_punch"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 540,
+        "description": 0
+      }
     }
   ]
 }

@@ -330,7 +330,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "bind"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 79,
+        "description": 0
+      }
     }
   ]
 }

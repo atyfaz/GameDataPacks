@@ -332,7 +332,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "freeze_dry"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 336,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -913,7 +917,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 337,
+        "description": 85
+      }
     }
   ]
 }

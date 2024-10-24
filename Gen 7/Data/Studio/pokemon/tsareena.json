@@ -64,11 +64,11 @@
         "backShinyF": "763",
         "footprint": "",
         "character": "",
-        "characterShiny": "",
-        "cry": "763cry.ogg",
-        "hasFemale": true,
         "characterF": "763_0",
-        "characterShinyF": "763s_0"
+        "characterShiny": "",
+        "characterShinyF": "763s_0",
+        "cry": "763cry.ogg",
+        "hasFemale": true
       },
       "moveSet": [
         {
@@ -343,7 +343,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "trop_kick"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 922,
+        "description": 0
+      }
     }
   ]
 }

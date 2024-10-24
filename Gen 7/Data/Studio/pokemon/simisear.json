@@ -50,6 +50,19 @@
         "blaze"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "514",
+        "iconShiny": "",
+        "front": "514",
+        "frontShiny": "514",
+        "back": "514",
+        "backShiny": "514",
+        "footprint": "514",
+        "character": "514_0",
+        "characterShiny": "514s_0",
+        "cry": "514cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -141,7 +154,7 @@
         },
         {
           "klass": "TutorLearnableMove",
-          "move": "stomping_tantrum"
+          "move": "throat_chop"
         },
         {
           "klass": "TechLearnableMove",
@@ -292,18 +305,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "514",
-        "iconShiny": "",
-        "front": "514",
-        "frontShiny": "514",
-        "back": "514",
-        "backShiny": "514",
-        "footprint": "514",
-        "character": "514_0",
-        "characterShiny": "514s_0",
-        "cry": "514cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 815,
+        "description": 0
       }
     }
   ]

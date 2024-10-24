@@ -61,6 +61,19 @@
         "unnerve"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "052",
+        "iconShiny": "",
+        "front": "052",
+        "frontShiny": "052",
+        "back": "052",
+        "backShiny": "052",
+        "footprint": "052",
+        "character": "052_0",
+        "characterShiny": "052s_0",
+        "cry": "052cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -378,18 +391,9 @@
           "move": "foul_play"
         }
       ],
-      "resources": {
-        "icon": "052",
-        "iconShiny": "",
-        "front": "052",
-        "frontShiny": "052",
-        "back": "052",
-        "backShiny": "052",
-        "footprint": "052",
-        "character": "052_0",
-        "characterShiny": "052s_0",
-        "cry": "052cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 546,
+        "description": 0
       }
     },
     {
@@ -417,7 +421,7 @@
           "conditions": [
             {
               "type": "minLoyalty",
-              "value": 255
+              "value": 220
             }
           ]
         }
@@ -450,6 +454,19 @@
         "rattled"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "052_01",
+        "iconShiny": "",
+        "front": "052_01",
+        "frontShiny": "052_01",
+        "back": "052_01",
+        "backShiny": "052_01",
+        "footprint": "052",
+        "character": "",
+        "characterShiny": "",
+        "cry": "052cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -776,18 +793,9 @@
           "move": "parting_shot"
         }
       ],
-      "resources": {
-        "icon": "052_01",
-        "iconShiny": "",
-        "front": "052_01",
-        "frontShiny": "052_01",
-        "back": "052_01",
-        "backShiny": "052_01",
-        "footprint": "052",
-        "character": "",
-        "characterShiny": "",
-        "cry": "052cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 547,
+        "description": 116
       }
     }
   ]

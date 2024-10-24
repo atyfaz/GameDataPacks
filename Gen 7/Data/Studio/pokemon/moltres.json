@@ -50,6 +50,19 @@
         "flame_body"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "146",
+        "iconShiny": "",
+        "front": "146",
+        "frontShiny": "146",
+        "back": "146",
+        "backShiny": "146",
+        "footprint": "146",
+        "character": "146_0",
+        "characterShiny": "146s_0",
+        "cry": "146cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -284,18 +297,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "146",
-        "iconShiny": "",
-        "front": "146",
-        "frontShiny": "146",
-        "back": "146",
-        "backShiny": "146",
-        "footprint": "146",
-        "character": "146_0",
-        "characterShiny": "146s_0",
-        "cry": "146cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 577,
+        "description": 0
       }
     }
   ]

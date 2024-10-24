@@ -397,7 +397,11 @@
           "klass": "TechLearnableMove",
           "move": "confide"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 859,
+        "description": 0
+      }
     },
     {
       "form": 30,
@@ -427,7 +431,7 @@
         10,
         10
       ],
-      "hatchSteps": 5120,
+      "hatchSteps": 6400,
       "babyDbSymbol": "onix",
       "babyForm": 0,
       "itemHeld": [
@@ -1017,7 +1021,11 @@
           "klass": "TechLearnableMove",
           "move": "dive"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 860,
+        "description": 191
+      }
     }
   ]
 }

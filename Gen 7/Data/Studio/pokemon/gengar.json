@@ -60,6 +60,19 @@
         "cursed_body"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "094",
+        "iconShiny": "",
+        "front": "094",
+        "frontShiny": "094",
+        "back": "094",
+        "backShiny": "094",
+        "footprint": "094",
+        "character": "094_0",
+        "characterShiny": "094s_0",
+        "cry": "094cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -110,11 +123,6 @@
           "klass": "LevelLearnableMove",
           "move": "sucker_punch",
           "level": 22
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "shadow_punch",
-          "level": 25
         },
         {
           "klass": "LevelLearnableMove",
@@ -412,18 +420,9 @@
           "move": "shadow_punch"
         }
       ],
-      "resources": {
-        "icon": "094",
-        "iconShiny": "",
-        "front": "094",
-        "frontShiny": "094",
-        "back": "094",
-        "backShiny": "094",
-        "footprint": "094",
-        "character": "094_0",
-        "characterShiny": "094s_0",
-        "cry": "094cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 326,
+        "description": 0
       }
     },
     {
@@ -473,6 +472,19 @@
         "shadow_tag"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "094_30",
+        "iconShiny": "",
+        "front": "094_30",
+        "frontShiny": "094_30",
+        "back": "094_30",
+        "backShiny": "094_30",
+        "footprint": "094",
+        "character": "",
+        "characterShiny": "",
+        "cry": "094cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -744,18 +756,9 @@
           "move": "rock_smash"
         }
       ],
-      "resources": {
-        "icon": "094_30",
-        "iconShiny": "",
-        "front": "094_30",
-        "frontShiny": "094_30",
-        "back": "094_30",
-        "backShiny": "094_30",
-        "footprint": "094",
-        "character": "",
-        "characterShiny": "",
-        "cry": "094cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 327,
+        "description": 82
       }
     }
   ]

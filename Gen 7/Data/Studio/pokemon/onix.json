@@ -65,6 +65,19 @@
         "weak_armor"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "095",
+        "iconShiny": "",
+        "front": "095",
+        "frontShiny": "095",
+        "back": "095",
+        "backShiny": "095",
+        "footprint": "095",
+        "character": "095_0",
+        "characterShiny": "095s_0",
+        "cry": "095cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -389,18 +402,9 @@
           "move": "wide_guard"
         }
       ],
-      "resources": {
-        "icon": "095",
-        "iconShiny": "",
-        "front": "095",
-        "frontShiny": "095",
-        "back": "095",
-        "backShiny": "095",
-        "footprint": "095",
-        "character": "095_0",
-        "characterShiny": "095s_0",
-        "cry": "095cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 618,
+        "description": 0
       }
     }
   ]

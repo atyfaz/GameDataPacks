@@ -45,11 +45,28 @@
         }
       ],
       "abilities": [
-        "reckless",
+        "lightning_rod",
         "solid_rock",
         "reckless"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "464",
+        "iconShiny": "",
+        "front": "464",
+        "frontF": "464f",
+        "frontShiny": "464",
+        "frontShinyF": "464f",
+        "back": "464",
+        "backF": "464f",
+        "backShiny": "464",
+        "backShinyF": "464f",
+        "footprint": "464",
+        "character": "464_0",
+        "characterShiny": "464s_0",
+        "cry": "464cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -430,22 +447,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "464",
-        "iconShiny": "",
-        "front": "464",
-        "frontF": "464f",
-        "frontShiny": "464",
-        "frontShinyF": "464f",
-        "back": "464",
-        "backF": "464f",
-        "backShiny": "464",
-        "backShinyF": "464f",
-        "footprint": "464",
-        "character": "464_0",
-        "characterShiny": "464s_0",
-        "cry": "464cry.ogg",
-        "hasFemale": true
+      "formTextId": {
+        "name": 721,
+        "description": 0
       }
     }
   ]

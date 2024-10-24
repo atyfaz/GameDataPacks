@@ -261,7 +261,11 @@
           "klass": "BreedLearnableMove",
           "move": "venom_drench"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 694,
+        "description": 0
+      }
     }
   ]
 }

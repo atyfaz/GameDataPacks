@@ -324,7 +324,11 @@
           "klass": "BreedLearnableMove",
           "move": "swallow"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 526,
+        "description": 0
+      }
     }
   ]
 }

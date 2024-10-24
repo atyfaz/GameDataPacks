@@ -458,7 +458,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "darkest_lariat"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 415,
+        "description": 0
+      }
     }
   ]
 }

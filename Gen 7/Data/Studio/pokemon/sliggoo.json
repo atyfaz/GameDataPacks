@@ -35,6 +35,20 @@
               "value": "rain"
             }
           ]
+        },
+        {
+          "dbSymbol": "goodra",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 50
+            },
+            {
+              "type": "weather",
+              "value": "fog"
+            }
+          ]
         }
       ],
       "experienceType": 2,
@@ -65,6 +79,19 @@
         "gooey"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "705",
+        "iconShiny": "",
+        "front": "705",
+        "frontShiny": "705",
+        "back": "705",
+        "backShiny": "705",
+        "footprint": "",
+        "character": "705_0",
+        "characterShiny": "705s_0",
+        "cry": "705cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -247,18 +274,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "705",
-        "iconShiny": "",
-        "front": "705",
-        "frontShiny": "705",
-        "back": "705",
-        "backShiny": "705",
-        "footprint": "",
-        "character": "705_0",
-        "characterShiny": "705s_0",
-        "cry": "705cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 825,
+        "description": 0
       }
     }
   ]

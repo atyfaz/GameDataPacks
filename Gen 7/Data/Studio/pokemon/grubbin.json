@@ -257,7 +257,11 @@
           "klass": "BreedLearnableMove",
           "move": "mud_shot"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 373,
+        "description": 0
+      }
     }
   ]
 }

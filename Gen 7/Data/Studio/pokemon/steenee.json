@@ -75,11 +75,11 @@
         "backShinyF": "762",
         "footprint": "",
         "character": "",
-        "characterShiny": "",
-        "cry": "762cry.ogg",
-        "hasFemale": true,
         "characterF": "762_0",
-        "characterShinyF": "762s_0"
+        "characterShiny": "",
+        "characterShinyF": "762s_0",
+        "cry": "762cry.ogg",
+        "hasFemale": true
       },
       "moveSet": [
         {
@@ -314,7 +314,11 @@
           "klass": "EvolutionLearnableMove",
           "move": "double_slap"
         }
-      ]
+      ],
+      "formTextId": {
+        "name": 861,
+        "description": 0
+      }
     }
   ]
 }

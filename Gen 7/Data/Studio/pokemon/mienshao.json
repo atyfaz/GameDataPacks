@@ -50,6 +50,19 @@
         "reckless"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "620",
+        "iconShiny": "",
+        "front": "620",
+        "frontShiny": "620",
+        "back": "620",
+        "backShiny": "620",
+        "footprint": "620",
+        "character": "620_0",
+        "characterShiny": "620s_0",
+        "cry": "620cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -353,18 +366,9 @@
           "move": "confide"
         }
       ],
-      "resources": {
-        "icon": "620",
-        "iconShiny": "",
-        "front": "620",
-        "frontShiny": "620",
-        "back": "620",
-        "backShiny": "620",
-        "footprint": "620",
-        "character": "620_0",
-        "characterShiny": "620s_0",
-        "cry": "620cry.ogg",
-        "hasFemale": false
+      "formTextId": {
+        "name": 558,
+        "description": 0
       }
     }
   ]
