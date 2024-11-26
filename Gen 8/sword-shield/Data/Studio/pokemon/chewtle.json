@@ -1,0 +1,234 @@
+{
+  "klass": "Specie",
+  "id": 833,
+  "dbSymbol": "chewtle",
+  "forms": [
+    {
+      "form": 0,
+      "height": 0.3,
+      "weight": 8.5,
+      "type1": "water",
+      "type2": "__undef__",
+      "baseHp": 50,
+      "baseAtk": 64,
+      "baseDfe": 50,
+      "baseSpd": 44,
+      "baseAts": 38,
+      "baseDfs": 38,
+      "evHp": 0,
+      "evAtk": 1,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [
+        {
+          "dbSymbol": "drednaw",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 22
+            }
+          ]
+        }
+      ],
+      "experienceType": 1,
+      "baseExperience": 57,
+      "baseLoyalty": 50,
+      "catchRate": 255,
+      "femaleRate": 50,
+      "breedGroups": [
+        1,
+        2
+      ],
+      "hatchSteps": 5120,
+      "babyDbSymbol": "chewtle",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "strong_jaw",
+        "shell_armor",
+        "swift_swim"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "833",
+        "iconShiny": "",
+        "front": "833",
+        "frontShiny": "833",
+        "back": "833",
+        "backShiny": "833",
+        "footprint": "",
+        "character": "833_0",
+        "characterShiny": "833s_0",
+        "cry": "833cry.ogg",
+        "hasFemale": false
+      },
+      "moveSet": [
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tackle",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "water_gun",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bite",
+          "level": 7
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "protect",
+          "level": 14
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "headbutt",
+          "level": 21
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "counter",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "jaw_lock",
+          "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "liquidation",
+          "level": 42
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "body_slam",
+          "level": 49
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "scale_shot"
+        },
+        {
+          "klass": "TutorLearnableMove",
+          "move": "skitter_smack"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "dragon_tail"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "gastro_acid"
+        },
+        {
+          "klass": "BreedLearnableMove",
+          "move": "skull_bash"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "attract"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "protect"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "snore"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rest"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "rain_dance"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "whirlpool"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "facade"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "revenge"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "dive"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "mud_shot"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "payback"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "assurance"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "ice_fang"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "round"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "body_slam"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "hydro_pump"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "surf"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "substitute"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "endure"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "sleep_talk"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "liquidation"
+        }
+      ],
+      "formTextId": {
+        "name": 1204,
+        "description": 0
+      }
+    }
+  ]
+}
