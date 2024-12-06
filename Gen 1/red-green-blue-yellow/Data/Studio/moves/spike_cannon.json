@@ -22,7 +22,7 @@
   "isEffectChance": false,
   "isGravity": false,
   "isHeal": false,
-  "isKingRockUtility": true,
+  "isKingRockUtility": false,
   "isMagicCoatAffected": false,
   "isMental": false,
   "isMirrorMove": true,
@@ -37,7 +37,7 @@
   "battleEngineAimedTarget": "adjacent_pokemon",
   "battleStageMod": [],
   "moveStatus": [],
-  "effectChance": 100,
+  "effectChance": 0,
   "isSlicingAttack": false,
   "isWind": false
 }
