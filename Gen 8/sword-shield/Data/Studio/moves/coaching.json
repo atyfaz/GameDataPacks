@@ -11,7 +11,7 @@
   "category": "status",
   "movecriticalRate": 1,
   "priority": 0,
-  "isAuthentic": false,
+  "isAuthentic": true,
   "isBallistics": false,
   "isBite": false,
   "isBlocable": false,
@@ -34,7 +34,7 @@
   "isSnatchable": false,
   "isSoundAttack": false,
   "isUnfreeze": false,
-  "battleEngineAimedTarget": "all_ally",
+  "battleEngineAimedTarget": "all_ally_but_user",
   "battleStageMod": [
     {
       "battleStage": "ATK_STAGE",
