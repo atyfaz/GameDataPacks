@@ -1,6 +1,6 @@
 {
   "klass": "Ability",
-  "dbSymbol": "magnet_pull",
   "id": 42,
+  "dbSymbol": "magnet_pull",
   "textId": 42
 }

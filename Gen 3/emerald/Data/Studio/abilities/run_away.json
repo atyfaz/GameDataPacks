@@ -1,6 +1,6 @@
 {
   "klass": "Ability",
-  "dbSymbol": "run_away",
   "id": 50,
+  "dbSymbol": "run_away",
   "textId": 50
 }

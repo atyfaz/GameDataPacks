@@ -1,6 +1,6 @@
 {
   "klass": "Ability",
-  "dbSymbol": "natural_cure",
   "id": 30,
+  "dbSymbol": "natural_cure",
   "textId": 30
 }

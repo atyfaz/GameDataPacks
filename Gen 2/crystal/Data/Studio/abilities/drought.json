@@ -1,6 +1,6 @@
 {
   "klass": "Ability",
-  "dbSymbol": "drought",
   "id": 70,
+  "dbSymbol": "drought",
   "textId": 70
 }
