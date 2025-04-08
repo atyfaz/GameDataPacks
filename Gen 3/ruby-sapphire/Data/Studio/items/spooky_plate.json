@@ -1,5 +1,5 @@
 {
-  "klass": "StatusHealItem",
+  "klass": "Item",
   "id": 310,
   "dbSymbol": "spooky_plate",
   "icon": "310",
@@ -10,7 +10,5 @@
   "isMapUsable": false,
   "isLimited": true,
   "isHoldable": true,
-  "flingPower": 90,
-  "loyaltyMalus": 0,
-  "statusList": []
+  "flingPower": 90
 }
